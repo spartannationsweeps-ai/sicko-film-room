@@ -1,0 +1,112 @@
+[
+ {
+  "host": "Heath Cummings",
+  "show": "FFT",
+  "hits": 18.0,
+  "misses": 15.0,
+  "push": 8.0,
+  "pending": 23.0,
+  "pct": 53.7,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Jamey Eisenberg",
+  "show": "FFT",
+  "hits": 8.0,
+  "misses": 7.0,
+  "push": 0.0,
+  "pending": 19.0,
+  "pct": 53.3,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Matt Harmon",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 1.0,
+  "pending": 8.0,
+  "pct": 50.0,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Adam Aizer",
+  "show": "BTBS, FFT",
+  "hits": 14.0,
+  "misses": 16.0,
+  "push": 1.0,
+  "pending": 26.0,
+  "pct": 46.8,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Josh Norris",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 4.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Dan Schneier",
+  "show": "BTBS",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 10.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Dave Richard",
+  "show": "FFT",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 8.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Sal Vetri",
+  "show": "Sal Vetri",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 18.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Nick Ercolano",
+  "show": "BDGE",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 24.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Jacob Gibbs",
+  "show": "BTBS",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 11.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Hayden Winks",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 16.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ }
+]

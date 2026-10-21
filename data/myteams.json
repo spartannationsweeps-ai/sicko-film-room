@@ -1,0 +1,4652 @@
+[
+ {
+  "key": "DYNASTY",
+  "label": "DYNASTY",
+  "team": "Amon A Boat!",
+  "league_name": "SCLSU Mud Dogs",
+  "source": "sleeper",
+  "season": "2026",
+  "week": 6,
+  "record": "3-3",
+  "rank": 6,
+  "pf": 842.96,
+  "pa": 789.48,
+  "max_pf": 956.6,
+  "n_teams": 10,
+  "roster_positions": [
+   "QB",
+   "RB",
+   "RB",
+   "WR",
+   "WR",
+   "WR",
+   "TE",
+   "FLEX",
+   "FLEX",
+   "K",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN"
+  ],
+  "scoring": {
+   "sack": 1.0,
+   "qb_hit": 0.0,
+   "fgm_40_49": 4.0,
+   "bonus_rec_te": 0.0,
+   "fgm_yds": 0.0,
+   "def_forced_punts": 0.0,
+   "bonus_rec_yd_100": 0.0,
+   "bonus_rush_yd_100": 0.0,
+   "pass_int": -2.0,
+   "fgmiss_50p": 0.0,
+   "pts_allow_0": 10.0,
+   "bonus_pass_yd_400": 0.0,
+   "pass_2pt": 2.0,
+   "rec_0_4": 0.0,
+   "yds_allow_450_499": 0.0,
+   "blk_kick_ret_yd": 0.0,
+   "st_td": 6.0,
+   "def_pr_yd": 0.0,
+   "rec_30_39": 0.0,
+   "sack_yd": 0.0,
+   "fgm_yds_over_30": 0.0,
+   "rec_td": 6.0,
+   "yds_allow_400_449": 0.0,
+   "tkl_ast": 0.0,
+   "rec_20_29": 0.0,
+   "fgm_30_39": 3.0,
+   "fgm_50_59": 5.0,
+   "xpmiss": -1.0,
+   "rush_td_50p": 1.0,
+   "rush_td": 6.0,
+   "def_kr_yd": 0.0,
+   "bonus_fd_wr": 0.0,
+   "pts_allow": 0.0,
+   "def_4_and_stop": 0.5,
+   "fg_ret_yd": 0.0,
+   "yds_allow_550p": -4.0,
+   "pass_td_40p": 1.0,
+   "def_st_tkl_solo": 0.0,
+   "yds_allow_350_399": 0.0,
+   "fgm": 0.0,
+   "idp_sack_yd": 0.0,
+   "bonus_rush_rec_yd_100": 0.0,
+   "rec_2pt": 2.0,
+   "bonus_pass_cmp_25": 0.0,
+   "rush_fd": 0.0,
+   "pass_int_td": -1.0,
+   "int_ret_yd": 0.0,
+   "pass_att": 0.0,
+   "st_fum_rec": 1.0,
+   "fgmiss": 0.0,
+   "bonus_def_fum_td_50p": 0.0,
+   "ff": 0.0,
+   "bonus_sack_2p": 0.0,
+   "fgmiss_30_39": -1.0,
+   "rec": 1.0,
+   "yds_allow_200_299": 0.0,
+   "pts_allow_14_20": 4.0,
+   "def_2pt": 2.0,
+   "fgm_0_19": 3.0,
+   "idp_pass_def_3p": 0.0,
+   "int": 2.0,
+   "def_st_fum_rec": 1.0,
+   "fum_lost": -2.0,
+   "pts_allow_1_6": 8.0,
+   "rec_fd": 0.0,
+   "kr_yd": 0.0,
+   "fgm_60p": 6.0,
+   "fgmiss_20_29": -1.0,
+   "rush_att": 0.0,
+   "st_tkl_solo": 0.0,
+   "yds_allow": 0.0,
+   "rec_5_9": 0.0,
+   "fgm_20_29": 3.0,
+   "fgmiss_60p": 0.0,
+   "yds_allow_500_549": 0.0,
+   "pts_allow_21_27": 2.0,
+   "bonus_rec_wr": 0.0,
+   "bonus_pass_yd_300": 0.0,
+   "xpm": 1.0,
+   "pass_td_50p": 1.0,
+   "pass_sack": 0.0,
+   "rec_40p": 0.0,
+   "def_3_and_out": 0.0,
+   "fgmiss_50_59": 0.0,
+   "fgmiss_0_19": -1.0,
+   "pass_cmp": 0.0,
+   "tkl_loss": 0.0,
+   "rush_2pt": 2.0,
+   "def_pass_def": 0.0,
+   "yds_allow_300_349": 0.0,
+   "fum_rec": 2.0,
+   "rec_10_19": 0.0,
+   "bonus_rec_yd_200": 0.0,
+   "def_st_td": 6.0,
+   "tkl": 0.0,
+   "pass_cmp_40p": 0.0,
+   "fgm_50p": 0.0,
+   "bonus_tkl_10p": 0.0,
+   "def_td": 6.0,
+   "pass_fd": 0.0,
+   "rec_td_40p": 1.0,
+   "bonus_rush_yd_200": 0.0,
+   "safe": 2.0,
+   "pass_yd": 0.04,
+   "fgmiss_40_49": -1.0,
+   "rec_td_50p": 1.0,
+   "blk_kick": 2.0,
+   "pass_td": 4.0,
+   "tkl_solo": 0.0,
+   "bonus_rush_att_20": 0.0,
+   "yds_allow_100_199": 0.0,
+   "bonus_def_int_td_50p": 0.0,
+   "bonus_fd_qb": 0.0,
+   "rush_yd": 0.1,
+   "yds_allow_0_100": 4.0,
+   "bonus_rec_rb": 0.0,
+   "rush_40p": 0.0,
+   "pr_yd": 0.0,
+   "fum": 0.0,
+   "pts_allow_28_34": 0.0,
+   "pts_allow_35p": -2.0,
+   "bonus_rush_rec_yd_200": 0.0,
+   "fum_rec_td": 6.0,
+   "rec_yd": 0.1,
+   "rush_td_40p": 1.0,
+   "bonus_fd_te": 0.0,
+   "bonus_fd_rb": 0.0,
+   "fum_ret_yd": 0.0,
+   "def_st_ff": 1.0,
+   "pass_inc": 0.0,
+   "pts_allow_7_13": 6.0,
+   "st_ff": 1.0
+  },
+  "standings": [
+   {
+    "roster_id": 2,
+    "team": "Left Side! Strong Side!",
+    "w": 6,
+    "l": 0,
+    "t": 0,
+    "pf": 926.36,
+    "pa": 702.2,
+    "max_pf": 1180.42,
+    "me": false,
+    "rank": 1
+   },
+   {
+    "roster_id": 7,
+    "team": "ConanWanderer",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 852.26,
+    "pa": 739.56,
+    "max_pf": 980.76,
+    "me": false,
+    "rank": 2
+   },
+   {
+    "roster_id": 8,
+    "team": "Mcbrid-al Carry",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 841.48,
+    "pa": 851.02,
+    "max_pf": 1015.38,
+    "me": false,
+    "rank": 3
+   },
+   {
+    "roster_id": 3,
+    "team": "musicm45",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 834.3,
+    "pa": 727.2,
+    "max_pf": 964.94,
+    "me": false,
+    "rank": 4
+   },
+   {
+    "roster_id": 9,
+    "team": "BakedShady",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 743.92,
+    "pa": 826.3,
+    "max_pf": 919.38,
+    "me": false,
+    "rank": 5
+   },
+   {
+    "roster_id": 6,
+    "team": "Amon A Boat!",
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "pf": 842.96,
+    "pa": 789.48,
+    "max_pf": 956.6,
+    "me": true,
+    "rank": 6
+   },
+   {
+    "roster_id": 10,
+    "team": "The Man in Jahmyr",
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "pf": 811.5,
+    "pa": 779.78,
+    "max_pf": 1031.78,
+    "me": false,
+    "rank": 7
+   },
+   {
+    "roster_id": 4,
+    "team": "Jurgens Off",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pf": 803.06,
+    "pa": 901.94,
+    "max_pf": 972.08,
+    "me": false,
+    "rank": 8
+   },
+   {
+    "roster_id": 5,
+    "team": "Texas Rattlesnake ",
+    "w": 0,
+    "l": 6,
+    "t": 0,
+    "pf": 756.08,
+    "pa": 932.74,
+    "max_pf": 955.8,
+    "me": false,
+    "rank": 9
+   },
+   {
+    "roster_id": 1,
+    "team": "Chuba Chuba Choo Choo \ud83d\ude82",
+    "w": 0,
+    "l": 6,
+    "t": 0,
+    "pf": 704.08,
+    "pa": 865.78,
+    "max_pf": 888.58,
+    "me": false,
+    "rank": 10
+   }
+  ],
+  "weekly": [
+   {
+    "week": 1,
+    "pts": 161.3,
+    "opp_pts": 115.74,
+    "opp": "Chuba Chuba Choo Choo \ud83d\ude82",
+    "league_median": 128.76,
+    "league_high": 187.76
+   },
+   {
+    "week": 2,
+    "pts": 143.14,
+    "opp_pts": 99.9,
+    "opp": "Jurgens Off",
+    "league_median": 126.62,
+    "league_high": 171.08
+   },
+   {
+    "week": 3,
+    "pts": 122.58,
+    "opp_pts": 140.48,
+    "opp": "musicm45",
+    "league_median": 137.54,
+    "league_high": 168.92
+   },
+   {
+    "week": 4,
+    "pts": 141.08,
+    "opp_pts": 149.5,
+    "opp": "Mcbrid-al Carry",
+    "league_median": 141.08,
+    "league_high": 198.28
+   },
+   {
+    "week": 5,
+    "pts": 123.56,
+    "opp_pts": 157.76,
+    "opp": "Left Side! Strong Side!",
+    "league_median": 143.34,
+    "league_high": 171.7
+   },
+   {
+    "week": 6,
+    "pts": 151.3,
+    "opp_pts": 126.1,
+    "opp": "ConanWanderer",
+    "league_median": 116.54,
+    "league_high": 151.3
+   }
+  ],
+  "matchup": {
+   "week": 6,
+   "me": 151.3,
+   "opp": 126.1,
+   "opp_team": "ConanWanderer",
+   "starters_points": {
+    "Jayden Daniels": 21.0,
+    "Braelon Allen": 12.4,
+    "Kenneth Walker": 27.9,
+    "Rashid Shaheed": 11.8,
+    "Rome Odunze": 6.9,
+    "Stefon Diggs": 16.4,
+    "Brock Bowers": 11.0,
+    "Keenan Allen": 16.2,
+    "Rachaad White": 15.7,
+    "Trey Smack": 12.0
+   },
+   "opp_starters": [
+    {
+     "name": "Josh Allen",
+     "pos": "QB",
+     "pts": 18.3
+    },
+    {
+     "name": "Ashton Jeanty",
+     "pos": "RB",
+     "pts": 15.8
+    },
+    {
+     "name": "George Holani",
+     "pos": "RB",
+     "pts": 8.0
+    },
+    {
+     "name": "Mike Evans",
+     "pos": "WR",
+     "pts": 12.4
+    },
+    {
+     "name": "Emeka Egbuka",
+     "pos": "WR",
+     "pts": 17.8
+    },
+    {
+     "name": "Christian Watson",
+     "pos": "WR",
+     "pts": 9.4
+    },
+    {
+     "name": "Isaiah Likely",
+     "pos": "TE",
+     "pts": 23.9
+    },
+    {
+     "name": "Kalif Raymond",
+     "pos": "WR",
+     "pts": 3.8
+    },
+    {
+     "name": "Kaelon Black",
+     "pos": "RB",
+     "pts": 4.7
+    },
+    {
+     "name": "Harrison Butker",
+     "pos": "K",
+     "pts": 12.0
+    }
+   ]
+  },
+  "transactions": [
+   {
+    "week": 6,
+    "type": "free_agent",
+    "adds": [],
+    "drops": [
+     "Austin Ekeler"
+    ],
+    "ts": 1792534767665
+   },
+   {
+    "week": 6,
+    "type": "free_agent",
+    "adds": [],
+    "drops": [
+     "CJ Donaldson"
+    ],
+    "ts": 1792534740659
+   }
+  ],
+  "roster": [
+   {
+    "pid": "96",
+    "name": "Aaron Rodgers",
+    "pos": "QB",
+    "team": "PIT",
+    "slot": "QB",
+    "group": "Starter",
+    "inj": null,
+    "age": 42,
+    "takes": [
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Sal Vetri",
+      "take": "Info (volume +)",
+      "detail": "\"Just throwing the ball non-stop right now, threw 49 times\" vs 22 runs *(Guru: Sleeper 33/49, 253 yds, 2 TD, 1 INT, 17.02 DYN pts; he's your DYN QB this week and Freddy's MAIN QB)*",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "\u224814:12",
+      "stats": [
+       "253 yds",
+       "2 TD"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "\"Just throwing the ball non-stop right now",
+      "take": "",
+      "detail": "",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Volume backs him up (17.02 DYN pts in Wk6). This morning's waiver plan still has Kyler Murray ($4) as a small upgrade, and Sal's take doesn't change that"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "\" 49 attempts vs 22 runs",
+      "take": "",
+      "detail": "",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Volume backs him up (17.02 DYN pts in Wk6). This morning's waiver plan still has Kyler Murray ($4) as a small upgrade, and Sal's take doesn't change that"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "49 attempts",
+      "take": "",
+      "detail": "",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "\"throwing the ball non-stop\"",
+      "take": "",
+      "detail": "",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Info (volume +)",
+      "detail": "Throwing \"almost 40 times per game,\" and the last two weeks are back to \"everything within five yards.\" Alfredo: DK's easy targets. *Age 42. Your DYNASTY starting QB.*",
+      "player": "Aaron Rodgers",
+      "sent": 0,
+      "ts": "22:30",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     }
+    ],
+    "mentions": 16,
+    "score": 0.27
+   },
+   {
+    "pid": "8151",
+    "name": "Kenneth Walker",
+    "pos": "RB",
+    "team": "KC",
+    "slot": "RB",
+    "group": "Starter",
+    "inj": null,
+    "age": 26,
+    "takes": [
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Theo Gremminger",
+      "take": "Info (bullish)",
+      "detail": "",
+      "player": "Kenneth Walker",
+      "sent": 0,
+      "ts": "05:37",
+      "stats": [
+       "\"Playing on another planet\"; KC running so efficiently it opens the pass game; Jacob (via Ben Gretch): Mahomes no longer facing pure pass defense",
+       "My check: [my check] Wk6 19-128-2 on the ground plus 2-11; 28.0 full-PPR PPG"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Info (bullish)",
+      "detail": "",
+      "player": "Kenneth Walker",
+      "sent": 0,
+      "ts": "05:37",
+      "stats": [
+       "\"Playing on another planet\"; KC running so efficiently it opens the pass game; Jacob (via Ben Gretch): Mahomes no longer facing pure pass defense",
+       "My check: [my check] Wk6 19-128-2 on the ground plus 2-11; 28.0 full-PPR PPG"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "S",
+      "detail": "19-128-2 off the bye; 17 touches through 3 quarters, 16 of 18 rush attempts at one point. Matt doubts KC will actually manage his workload. Hayden: \"in the mix for, you know, offensive player of the year.\" Also stuffed on 4th-and-goal; KC O-line banged up",
+      "player": "Kenneth Walker",
+      "sent": 1,
+      "ts": "1:27\u20131:30",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "S",
+      "detail": "19-128-2 off the bye; 17 touches through 3 quarters, 16 of 18 rush attempts at one point. Matt doubts KC will actually manage his workload. Hayden: \"in the mix for, you know, offensive player of the year.\" Also stuffed on 4th-and-goal; KC O-line banged up",
+      "player": "Kenneth Walker",
+      "sent": 1,
+      "ts": "1:27\u20131:30",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Hayden Winks",
+      "take": "S",
+      "detail": "19-128-2 off the bye; 17 touches through 3 quarters, 16 of 18 rush attempts at one point. Matt doubts KC will actually manage his workload. Hayden: \"in the mix for, you know, offensive player of the year.\" Also stuffed on 4th-and-goal; KC O-line banged up",
+      "player": "Kenneth Walker",
+      "sent": 1,
+      "ts": "1:27\u20131:30",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "19-128-2; OPOY mix; workload won't be throttled",
+      "take": "",
+      "detail": "",
+      "player": "Kenneth Walker",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Cornerstone"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 8,
+    "score": 0.33
+   },
+   {
+    "pid": "8155",
+    "name": "Breece Hall",
+    "pos": "RB",
+    "team": "NYJ",
+    "slot": "RB",
+    "group": "Starter",
+    "inj": "Out",
+    "age": 25,
+    "takes": [
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Adam Aizer",
+      "take": "Hold",
+      "detail": "Inactive earlier; Adam fears bigger Braelon role. Hall 3.2 YPC vs Allen 4.2 YPC YTD. Still expects Hall as lead / not 50-50 long",
+      "player": "Breece Hall",
+      "sent": 0,
+      "ts": "30:20\u201332:03",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "See Braelon. Adam: Hall \"hasn't run the ball well\". Heath still sees Breece as the lead back on return",
+      "take": "",
+      "detail": "",
+      "player": "Breece Hall",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: BN",
+       "Wk6: 0 (Out)",
+       "Guru read: Hold. Don't sell low"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "Set the over",
+      "take": "S if active",
+      "detail": "",
+      "player": "Breece Hall",
+      "sent": 1,
+      "ts": "22:56\u201323:36",
+      "stats": [
+       "Set the over/under at 3.5 weeks; he's missed 3, so it's \"a 50-50 chance\" he plays Wk 7. \"If he plays, you play him\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "under at 3.5 weeks; he's missed 3",
+      "take": "S if active",
+      "detail": "",
+      "player": "Breece Hall",
+      "sent": 1,
+      "ts": "22:56\u201323:36",
+      "stats": [
+       "Set the over/under at 3.5 weeks; he's missed 3, so it's \"a 50-50 chance\" he plays Wk 7. \"If he plays, you play him\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "so it's \"a 50-50 chance\" he plays Wk 7. \"If he plays",
+      "take": "S if active",
+      "detail": "",
+      "player": "Breece Hall",
+      "sent": 1,
+      "ts": "22:56\u201323:36",
+      "stats": [
+       "Set the over/under at 3.5 weeks; he's missed 3, so it's \"a 50-50 chance\" he plays Wk 7. \"If he plays, you play him\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "you play him\"",
+      "take": "S if active",
+      "detail": "",
+      "player": "Breece Hall",
+      "sent": 1,
+      "ts": "22:56\u201323:36",
+      "stats": [
+       "Set the over/under at 3.5 weeks; he's missed 3, so it's \"a 50-50 chance\" he plays Wk 7. \"If he plays, you play him\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     }
+    ],
+    "mentions": 3,
+    "score": 0.67
+   },
+   {
+    "pid": "7547",
+    "name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "team": "DET",
+    "slot": "WR",
+    "group": "Starter",
+    "inj": null,
+    "age": 26,
+    "takes": [
+     {
+      "ep": "fft:tjd4BB1W_TU",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Heath Cummings",
+      "take": "On Heath's bench (bye)",
+      "detail": "On Heath's bench (bye)",
+      "player": "Amon-Ra St. Brown",
+      "sent": -1,
+      "ts": "11:30",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=tjd4BB1W_TU"
+     }
+    ],
+    "mentions": 1,
+    "score": -1.0
+   },
+   {
+    "pid": "11620",
+    "name": "Rome Odunze",
+    "pos": "WR",
+    "team": "CHI",
+    "slot": "WR",
+    "group": "Starter",
+    "inj": null,
+    "age": 24,
+    "takes": [
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Hosts",
+      "take": "Bench / hold",
+      "detail": "\"He's the wide receiver version of Hampton.\" Drop-O-Meter 3 / 2 / 3. \"New England and Seattle next two games\"",
+      "player": "Rome Odunze",
+      "sent": -1,
+      "ts": "53:44\u201354:04",
+      "stats": [
+       "Sleeper check: Wk4\u20136: 15.4, 5.0, 6.9; schedule vs NE, @SEA \u2714. Your DYN starter"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "(unattributed)",
+      "take": "",
+      "detail": "\"the wide receiver version of Hampton\"; NE then SEA next",
+      "player": "Rome Odunze",
+      "sent": -1,
+      "ts": "",
+      "stats": [
+       "Ratings: 3, 2, 3",
+       "Sleeper: 15.4, 5.0, 6.9 (Wk4\u20136)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Info",
+      "detail": "",
+      "player": "Rome Odunze",
+      "sent": 0,
+      "ts": "17:04",
+      "stats": [
+       "\u26a0 \"Roma weeks\": some weeks go downfield to Odunze depending on script"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "CHI offense \"as high-powered as they come\" vs NE",
+      "take": "",
+      "detail": "",
+      "player": "Rome Odunze",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Fine WR3"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "Info",
+      "detail": "Only mention: a 20-yard reception, then ATL \"put the lid on the deep passing stuff\"",
+      "player": "Rome Odunze",
+      "sent": 0,
+      "ts": "0:04",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Only a 20-yd catch mention; CHI is \"pretty spread out\"",
+      "take": "",
+      "detail": "",
+      "player": "Rome Odunze",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: WR4"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 11,
+    "score": -0.06
+   },
+   {
+    "pid": "8676",
+    "name": "Rashid Shaheed",
+    "pos": "WR",
+    "team": "SEA",
+    "slot": "WR",
+    "group": "Starter",
+    "inj": null,
+    "age": 28,
+    "takes": [
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Not discussed",
+      "take": "",
+      "detail": "",
+      "player": "Rashid Shaheed",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: FLEX",
+       "Wk6: 11.80",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   },
+   {
+    "pid": "11604",
+    "name": "Brock Bowers",
+    "pos": "TE",
+    "team": "LV",
+    "slot": "TE",
+    "group": "Starter",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Plays \"more wide receiver one than tight end one\"; Mayer eats underneath",
+      "take": "",
+      "detail": "",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Elite, start. W6 4/9-70 on 65/66 snaps"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Info",
+      "detail": "\"I do\" count him as a WR, making him LV's top receiver. *Yours.*",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "34:10",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Info",
+      "detail": "Jamey: \"really the number one wide receiver for the [Raiders].\" Adam: \"lining up out wide 40% of the time\"; Mark Andrews second at \"23.4%,\" Isaiah Likely \"18%\"",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "34:08\u201335:11",
+      "stats": [
+       "Sleeper check: Alignment rates unverified"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Info",
+      "detail": "Jamey: \"really the number one wide receiver for the [Raiders].\" Adam: \"lining up out wide 40% of the time\"; Mark Andrews second at \"23.4%,\" Isaiah Likely \"18%\"",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "34:08\u201335:11",
+      "stats": [
+       "Sleeper check: Alignment rates unverified"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Info",
+      "detail": "\"Bowers is a receiver. That's just the way that this team is operating\"",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "1:06:14",
+      "stats": [
+       "Sleeper check: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "LV uses him \"effectively [as] a wide receiver\"",
+      "take": "",
+      "detail": "",
+      "player": "Brock Bowers",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Locked"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     }
+    ],
+    "mentions": 13,
+    "score": 0.32
+   },
+   {
+    "pid": "5844",
+    "name": "T.J. Hockenson",
+    "pos": "TE",
+    "team": "MIN",
+    "slot": "FLEX",
+    "group": "Starter",
+    "inj": "Out",
+    "age": 29,
+    "takes": [
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Out",
+      "detail": "Suffered a concussion",
+      "player": "T.J. Hockenson",
+      "sent": 0,
+      "ts": "26:30",
+      "stats": [
+       "Sleeper check: Yours in DYN (Sleeper: Out)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "GTD, have a backup",
+      "detail": "\"assuming that TJ Hockenson plays, we're not 100% sure\"; \"really only had one good game\u2026 Jefferson was out\"",
+      "player": "T.J. Hockenson",
+      "sent": 0,
+      "ts": "35:51, 1:07:36",
+      "stats": [
+       "Sleeper check: Wk4 24.9 is the one big game \u2714. Sleeper: Out (concussion). Your DYN starter"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "GTD, have a backup",
+      "detail": "\"assuming that TJ Hockenson plays, we're not 100% sure\"; \"really only had one good game\u2026 Jefferson was out\"",
+      "player": "T.J. Hockenson",
+      "sent": 0,
+      "ts": "35:51, 1:07:36",
+      "stats": [
+       "Sleeper check: Wk4 24.9 is the one big game \u2714. Sleeper: Out (concussion). Your DYN starter"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     }
+    ],
+    "mentions": 2,
+    "score": 0.0
+   },
+   {
+    "pid": "12518",
+    "name": "Tyler Warren",
+    "pos": "TE",
+    "team": "IND",
+    "slot": "FLEX",
+    "group": "Starter",
+    "inj": "Out",
+    "age": 24,
+    "takes": [
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Sal Vetri",
+      "take": "Out",
+      "detail": "\"Late scratch because of a Friday groin injury\u2026 might miss extended time.\" \"Reinjures his groin injury from earlier this year. That's usually a multi-week absence\" *(Guru: Sleeper Out (groin); he is in your DYN starting lineup)*",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "\u22487:42, \u22489:26",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Late scratch with a Friday groin injury",
+      "take": "",
+      "detail": "",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: \ud83d\udea8 Sleeper still lists him Out, and Sal expects more than one week. Swap him out before Sunday. Practice reports start Wednesday"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "\"might miss extended time\u2026 usually a multi-week absence\"",
+      "take": "",
+      "detail": "",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: \ud83d\udea8 Sleeper still lists him Out, and Sal expects more than one week. Swap him out before Sunday. Practice reports start Wednesday"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Have a backup",
+      "detail": "\"may not play in week seven\"",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "42:57",
+      "stats": [
+       "Sleeper check: Sleeper: Out (groin). Your DYN starter"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "\"Speculation\" he won't be good to go",
+      "take": "",
+      "detail": "",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Bowers is your TE anyway"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "which gives Allen a \"clearer path\"",
+      "take": "",
+      "detail": "",
+      "player": "Tyler Warren",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Bowers is your TE anyway"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     }
+    ],
+    "mentions": 11,
+    "score": 0.06
+   },
+   {
+    "pid": "13545",
+    "name": "Trey Smack",
+    "pos": "K",
+    "team": "GB",
+    "slot": "K",
+    "group": "Starter",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Not discussed (Adam: \"Stop running the ball",
+      "take": "",
+      "detail": "",
+      "player": "Trey Smack",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: K",
+       "Wk6: 12.00",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Green Bay\")",
+      "take": "",
+      "detail": "",
+      "player": "Trey Smack",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: K",
+       "Wk6: 12.00",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   },
+   {
+    "pid": "10222",
+    "name": "Jayden Reed",
+    "pos": "WR",
+    "team": "GB",
+    "slot": "IR",
+    "group": "IR",
+    "inj": "IR",
+    "age": 26,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "11566",
+    "name": "Jayden Daniels",
+    "pos": "QB",
+    "team": "WAS",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 25,
+    "takes": [
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Info",
+      "detail": "\"the way that [Daniels] has been throwing the ball since he's come back\"",
+      "player": "Jayden Daniels",
+      "sent": 0,
+      "ts": "3:26, 30:30",
+      "stats": [
+       "Sleeper check: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Info",
+      "detail": "\"barely ran yesterday. He still scored 25 fantasy points\"; tough post-bye schedule",
+      "player": "Jayden Daniels",
+      "sent": 0,
+      "ts": "49:01",
+      "stats": [
+       "Sleeper check: 300/2 + 4-10 = 21.0 Sleeper (25.0 with 6-pt TD) \u2714. Bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "btbs:6PwsOSVVT2U",
+      "show": "btbs",
+      "date": "2026-10-19",
+      "host": "Dan Schneier: the film guy",
+      "take": "Buy",
+      "detail": "Part of the WAS offense step-forward buy",
+      "player": "Jayden Daniels",
+      "sent": 1,
+      "ts": "43:21",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=6PwsOSVVT2U"
+     },
+     {
+      "ep": "fft:7mYlfxCscaY",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Adam Aizer",
+      "take": "Jordan Love > Daniels (\"We're going Jordan Love\"). Daniels, Rodgers or Bryce Young: J \"I go Young\u2026 Actually, I go Daniels. Sorry.\"",
+      "detail": "Jordan Love > Daniels (\"We're going Jordan Love\"). Daniels, Rodgers or Bryce Young: J \"I go Young\u2026 Actually, I go Daniels. Sorry.\"",
+      "player": "Jayden Daniels",
+      "sent": 1,
+      "ts": "14:20; 20:26; 26:36",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=7mYlfxCscaY"
+     },
+     {
+      "ep": "fft:7mYlfxCscaY",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Jamey Eisenberg",
+      "take": "Jordan Love > Daniels (\"We're going Jordan Love\"). Daniels, Rodgers or Bryce Young: J \"I go Young\u2026 Actually, I go Daniels. Sorry.\"",
+      "detail": "Jordan Love > Daniels (\"We're going Jordan Love\"). Daniels, Rodgers or Bryce Young: J \"I go Young\u2026 Actually, I go Daniels. Sorry.\"",
+      "player": "Jayden Daniels",
+      "sent": 1,
+      "ts": "14:20; 20:26; 26:36",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=7mYlfxCscaY"
+     },
+     {
+      "ep": "fft:tjd4BB1W_TU",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Heath Cummings",
+      "take": "Lost to Jordan Love \u2192 B in that matchup",
+      "detail": "Lost to Jordan Love \u2192 B in that matchup",
+      "player": "Jayden Daniels",
+      "sent": 1,
+      "ts": "44:52",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=tjd4BB1W_TU"
+     }
+    ],
+    "mentions": 5,
+    "score": 0.67
+   },
+   {
+    "pid": "11576",
+    "name": "Braelon Allen",
+    "pos": "RB",
+    "team": "NYJ",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 22,
+    "takes": [
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "Hold",
+      "detail": "17-78, 2-26; multiple 10+ yard runs; \"when Bree[ce] comes back\u2026 he's going to have a legitimate role in this backfield\"",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "1:22\u20131:23",
+      "stats": [
+       "-78"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "17-78 + 2-26",
+      "take": "",
+      "detail": "",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold; don't sell Breece low"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "10+ yard runs; \"legitimate role\" once Breece returns",
+      "take": "",
+      "detail": "",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold; don't sell Breece low"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Adam Aizer",
+      "take": "Flex while Breece out",
+      "detail": "\"Looked great\"; maybe goal-line guy. Heath: not 50-50 once Breece is back; ~\u2153 snaps / ~8 touches",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "30:20\u201332:03; 1:03",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Heath Cummings",
+      "take": "Flex while Breece out",
+      "detail": "\"Looked great\"; maybe goal-line guy. Heath: not 50-50 once Breece is back; ~\u2153 snaps / ~8 touches",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "30:20\u201332:03; 1:03",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Adam's loser was Breece Hall because of Braelon: \"I'm expecting him to be annoying\u2026 Maybe he's the goal-line guy.\" Braelon 4.2 YPC vs Hall 3.2 YPC. Heath: once Breece is back",
+      "take": "",
+      "detail": "",
+      "player": "Braelon Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: RB",
+       "Wk6: 12.40",
+       "Guru read: Enjoy it while Breece is out"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     }
+    ],
+    "mentions": 8,
+    "score": 0.44
+   },
+   {
+    "pid": "13296",
+    "name": "Caleb Douglas",
+    "pos": "WR",
+    "team": "MIA",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": "Out",
+    "age": 23,
+    "takes": [
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Named among the \"waiver wire wide receivers\" in Sal's Waddle comparison",
+      "take": "",
+      "detail": "",
+      "player": "Caleb Douglas",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: No action needed; he's on taxi and listed Out"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Sal Vetri",
+      "take": "Stash",
+      "detail": "Rookie; probable high-ankle sprain; \"should be returning after the buy [bye].\" Wk1: 5/94 on team-high 7 targets *(Guru: Sleeper lists Out)*",
+      "player": "Caleb Douglas",
+      "sent": 1,
+      "ts": "17:48\u201318:08",
+      "stats": [
+       "7 targets"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Stash: rookie",
+      "take": "",
+      "detail": "",
+      "player": "Caleb Douglas",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Hold. You already own the stash"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "ankle",
+      "take": "",
+      "detail": "",
+      "player": "Caleb Douglas",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Hold. You already own the stash"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "\"should be returning after the buy.\" Wk1 5",
+      "take": "",
+      "detail": "",
+      "player": "Caleb Douglas",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Hold. You already own the stash"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "94 on team-high 7 targets. But \"I would add [Malik Washington] above his teammate Caleb Douglas\"",
+      "take": "",
+      "detail": "",
+      "player": "Caleb Douglas",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Hold. You already own the stash"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     }
+    ],
+    "mentions": 3,
+    "score": 0.17
+   },
+   {
+    "pid": "13380",
+    "name": "Brenen Thompson",
+    "pos": "WR",
+    "team": "LAC",
+    "slot": "TX",
+    "group": "Taxi",
+    "inj": null,
+    "age": 23,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "13394",
+    "name": "Josh Cameron",
+    "pos": "WR",
+    "team": "JAX",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "If BTJ is traded",
+      "take": "",
+      "detail": "",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold. JAX is on bye in Week 7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "the WR3 becomes \"some combination of Josh Cameron",
+      "take": "",
+      "detail": "",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold. JAX is on bye in Week 7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Travis Hunter\"",
+      "take": "",
+      "detail": "",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold. JAX is on bye in Week 7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "Info",
+      "detail": "Effective receiver and run blocker; frees up Hunter",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "1:39\u20131:40",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Hayden Winks",
+      "take": "Info",
+      "detail": "Effective receiver and run blocker; frees up Hunter",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "1:39\u20131:40",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "",
+      "detail": "",
+      "player": "Josh Cameron",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Taxi upside"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 6,
+    "score": 0.0
+   },
+   {
+    "pid": "1479",
+    "name": "Keenan Allen",
+    "pos": "WR",
+    "team": "IND",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 34,
+    "takes": [
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Sal Vetri",
+      "take": "Flex (PPR)",
+      "detail": "\"The old man, 34 year old Keenan Allen, eight catches, 82 yards, and a team high 12 targets.\" With Pierce and Warren out he'll \"earn a lot of targets,\" but in a checkdown offense, \"if you're not catching seven to eight plus balls\u2026 you're just not really that useful\" *(Guru: Sleeper says 11 targets, not 12 (8/82, 59/83 snaps); his Sleeper Wk7 projection of 2.17 still looks like a data glitch)*",
+      "player": "Keenan Allen",
+      "sent": 0,
+      "ts": "\u22487:50, \u22489:30",
+      "stats": [
+       "82 yards",
+       "12 targets",
+       "11 targets",
+       "83 snaps"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "8",
+      "take": "",
+      "detail": "",
+      "player": "Keenan Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: The cleanest replacement for Warren's slot: same team, same game (IND @ MIN), 11 targets on 71% snaps in Wk6, and full PPR fits Sal's \"7-8 catches\" bar. Ignore his 2.17 Sleeper projection (it looks like a glitch)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "82 on \"a team high 12 targets.\" With Pierce",
+      "take": "",
+      "detail": "",
+      "player": "Keenan Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: The cleanest replacement for Warren's slot: same team, same game (IND @ MIN), 11 targets on 71% snaps in Wk6, and full PPR fits Sal's \"7-8 catches\" bar. Ignore his 2.17 Sleeper projection (it looks like a glitch)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Warren out he'll \"earn a lot of targets",
+      "take": "",
+      "detail": "",
+      "player": "Keenan Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: The cleanest replacement for Warren's slot: same team, same game (IND @ MIN), 11 targets on 71% snaps in Wk6, and full PPR fits Sal's \"7-8 catches\" bar. Ignore his 2.17 Sleeper projection (it looks like a glitch)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "\" but he needs 7-8 catches to matter",
+      "take": "",
+      "detail": "",
+      "player": "Keenan Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: The cleanest replacement for Warren's slot: same team, same game (IND @ MIN), 11 targets on 71% snaps in Wk6, and full PPR fits Sal's \"7-8 catches\" bar. Ignore his 2.17 Sleeper projection (it looks like a glitch)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Buy / start (PPR)",
+      "detail": "Not the best WR but the most fantasy points; \"I'm willing to buy him because the volume is there\"; a late 3rd or 4th; \"over nine targets over the last three games.\" *\u2714 Sleeper: 9, 9, 11 targets (Wk3, Wk5, Wk6; no Wk4 line); Wk6 8-82, 16.2. Age 34. FC 939 [WR82] \u2248 a late 3rd. Yours (bench).*",
+      "player": "Keenan Allen",
+      "sent": 1,
+      "ts": "41:49",
+      "stats": [
+       "11 targets",
+       "-82",
+       "WR82"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     }
+    ],
+    "mentions": 16,
+    "score": 0.17
+   },
+   {
+    "pid": "2449",
+    "name": "Stefon Diggs",
+    "pos": "WR",
+    "team": "WAS",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 32,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Hold/start after bye",
+      "detail": "\"Going to be the number one there for as long as he can stay healthy\"; \"potentially becomes a league winner.\" *Wk6: 7 targets, 6-44-1, 16.4. Age 32. FC 1337. Yours (bench) and in MAIN; WAS bye Wk7.*",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "30:25",
+      "stats": [
+       "7 targets",
+       "-1"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Hold",
+      "detail": "McLaurin's absence will \"open the door for Stefon Diggs to be great\"; \"83% rostered\u2026 you need to have Stefon Diggs\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "3:26, 14:10",
+      "stats": [
+       "Sleeper check: Yours in both leagues (bench, WAS bye Wk7)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Hold",
+      "detail": "McLaurin's absence will \"open the door for Stefon Diggs to be great\"; \"83% rostered\u2026 you need to have Stefon Diggs\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "3:26, 14:10",
+      "stats": [
+       "Sleeper check: Yours in both leagues (bench, WAS bye Wk7)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Hold (Wk7 bye)",
+      "detail": "Close to Bernard; \"been very good in three of the five healthy games\"; Diggs is WAS's best WR going forward: \"Yes\u2026 He was better than McLaurin\u2026 gets hyper-targeted when he's on the field\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "42:16, 49:21",
+      "stats": [
+       "Sleeper check: 16.2, 22.2, 7.8, 8.8, 16.9 (MAIN) / 15.5, 21.7, 7.3, 8.5, 16.4 PPR \u2192 3 of 5 \u2714. WAS bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Hold (Wk7 bye)",
+      "detail": "Close to Bernard; \"been very good in three of the five healthy games\"; Diggs is WAS's best WR going forward: \"Yes\u2026 He was better than McLaurin\u2026 gets hyper-targeted when he's on the field\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "42:16, 49:21",
+      "stats": [
+       "Sleeper check: 16.2, 22.2, 7.8, 8.8, 16.9 (MAIN) / 15.5, 21.7, 7.3, 8.5, 16.4 PPR \u2192 3 of 5 \u2714. WAS bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "Named as part of the WAS target mix with McLaurin hurt",
+      "take": "",
+      "detail": "",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): WAS is on bye in Wk 7, but McLaurin's injury helps him after that"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     }
+    ],
+    "mentions": 8,
+    "score": 0.0
+   },
+   {
+    "pid": "4039",
+    "name": "Cooper Kupp",
+    "pos": "WR",
+    "team": "SEA",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 33,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "5995",
+    "name": "Justice Hill",
+    "pos": "RB",
+    "team": "BAL",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 28,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "7021",
+    "name": "Rico Dowdle",
+    "pos": "RB",
+    "team": "PIT",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 28,
+    "takes": [
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Sal Vetri",
+      "take": "Bench / Handcuff",
+      "detail": "First game back. Hot first half, then 7 carries, 3/9 receiving. \"Do run the ball well,\" but \"only saw 33% of the backfield carries\" *(Guru: Sleeper 7/40 + 3/9, 21/79 snaps = 27%; he's on your DYN bench)*",
+      "player": "Rico Dowdle",
+      "sent": -1,
+      "ts": "\u224812:46\u201314:49",
+      "stats": [
+       "7 carries",
+       "79 snaps"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "Hot first half",
+      "take": "",
+      "detail": "",
+      "player": "Rico Dowdle",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Keep him as a handcuff. If Breece Hall (Sleeper Out, quad) sits, Dowdle's 27% snap share argues against using him as your RB2 fill-in; Braelon Allen played 87% of NYJ snaps in Wk6 without Breece"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "then 7 carries",
+      "take": "",
+      "detail": "",
+      "player": "Rico Dowdle",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Keep him as a handcuff. If Breece Hall (Sleeper Out, quad) sits, Dowdle's 27% snap share argues against using him as your RB2 fill-in; Braelon Allen played 87% of NYJ snaps in Wk6 without Breece"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "salvetri:H86DYSf7-YI",
+      "show": "salvetri",
+      "date": "2026-10-20",
+      "host": "33% of backfield carries; Warren is \"the featured player\"",
+      "take": "",
+      "detail": "",
+      "player": "Rico Dowdle",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Keep him as a handcuff. If Breece Hall (Sleeper Out, quad) sits, Dowdle's 27% snap share argues against using him as your RB2 fill-in; Braelon Allen played 87% of NYJ snaps in Wk6 without Breece"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=H86DYSf7-YI"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Deep stash",
+      "detail": "\"lottery ticket in case something happens to Jaylen Warren\"",
+      "player": "Rico Dowdle",
+      "sent": 1,
+      "ts": "41:56",
+      "stats": [
+       "Sleeper check: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Theo Gremminger",
+      "take": "Info",
+      "detail": "",
+      "player": "Rico Dowdle",
+      "sent": 0,
+      "ts": "35:39",
+      "stats": [
+       "Four targets \"really annoying\"; hopes it isn't a trend",
+       "My check: \u2705 7-40 rushing, 3-9 receiving, 21 of 79 snaps"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     }
+    ],
+    "mentions": 11,
+    "score": 0.14
+   },
+   {
+    "pid": "7523",
+    "name": "Trevor Lawrence",
+    "pos": "QB",
+    "team": "JAX",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 27,
+    "takes": [
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Buy",
+      "detail": "",
+      "player": "Trevor Lawrence",
+      "sent": 1,
+      "ts": "14:21",
+      "stats": [
+       "Could be \"true league winners\" like last year's late run"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Adam Aizer",
+      "take": "Info",
+      "detail": "The other 30+ (\"four touchdowns will do that for you\") (Guru: 306/4/1 = 36.34 in 6-pt)",
+      "player": "Trevor Lawrence",
+      "sent": 0,
+      "ts": "00:29\u201300:49",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "One of only two players at any position to hit 30+ in 6-pt-pass-TD PPR before SNF",
+      "take": "",
+      "detail": "",
+      "player": "Trevor Lawrence",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: BN",
+       "Wk6: 27.34",
+       "Guru read: 36.34 in 6-pt scoring, sitting on your bench"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "\"306",
+      "take": "Info",
+      "detail": "",
+      "player": "Trevor Lawrence",
+      "sent": 0,
+      "ts": "10:27",
+      "stats": [
+       "\"306, four touchdowns\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "four touchdowns\"",
+      "take": "Info",
+      "detail": "",
+      "player": "Trevor Lawrence",
+      "sent": 0,
+      "ts": "10:27",
+      "stats": [
+       "\"306, four touchdowns\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "306",
+      "take": "",
+      "detail": "",
+      "player": "Trevor Lawrence",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     }
+    ],
+    "mentions": 6,
+    "score": 0.33
+   },
+   {
+    "pid": "8136",
+    "name": "Rachaad White",
+    "pos": "RB",
+    "team": "WAS",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 27,
+    "takes": [
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "#1 add (bye Wk7) \u2014 you own him in DYN",
+      "detail": "Jamey: \"64% rostered\"; \"Three of five games over 11 PPR points\"; \"11 PPR points or more in three of his last four\"; would drop Pierce, Kamara and Allgeier for him; \"hasn't been able to get past [eight carries]\"; \"a consistent flex\u2026 Maybe sneaks into the top 24.\" Dave: \"low-end number two fantasy running back for the rest of the season\"; role \"not really going to change that much when [Croskey-Merritt] comes back.\" Adam: \"only had 11 touches\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "1:00, 4:29, 15:28\u201317:32",
+      "stats": [
+       "Sleeper check: 14.3, 11.1, 15.7 in 5 games \u2714 (11.1 is barely over); 3 of last 4 \u2714. Carries 7/7/8/7/7, never over 8 \u2714. Wk6 7 + 4 = 11 touches \u2714",
+       "top 24"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "#1 add (bye Wk7) \u2014 you own him in DYN",
+      "detail": "Jamey: \"64% rostered\"; \"Three of five games over 11 PPR points\"; \"11 PPR points or more in three of his last four\"; would drop Pierce, Kamara and Allgeier for him; \"hasn't been able to get past [eight carries]\"; \"a consistent flex\u2026 Maybe sneaks into the top 24.\" Dave: \"low-end number two fantasy running back for the rest of the season\"; role \"not really going to change that much when [Croskey-Merritt] comes back.\" Adam: \"only had 11 touches\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "1:00, 4:29, 15:28\u201317:32",
+      "stats": [
+       "Sleeper check: 14.3, 11.1, 15.7 in 5 games \u2714 (11.1 is barely over); 3 of last 4 \u2714. Carries 7/7/8/7/7, never over 8 \u2714. Wk6 7 + 4 = 11 touches \u2714",
+       "top 24"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "#1 add (bye Wk7) \u2014 you own him in DYN",
+      "detail": "Jamey: \"64% rostered\"; \"Three of five games over 11 PPR points\"; \"11 PPR points or more in three of his last four\"; would drop Pierce, Kamara and Allgeier for him; \"hasn't been able to get past [eight carries]\"; \"a consistent flex\u2026 Maybe sneaks into the top 24.\" Dave: \"low-end number two fantasy running back for the rest of the season\"; role \"not really going to change that much when [Croskey-Merritt] comes back.\" Adam: \"only had 11 touches\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "1:00, 4:29, 15:28\u201317:32",
+      "stats": [
+       "Sleeper check: 14.3, 11.1, 15.7 in 5 games \u2714 (11.1 is barely over); 3 of last 4 \u2714. Carries 7/7/8/7/7, never over 8 \u2714. Wk6 7 + 4 = 11 touches \u2714",
+       "top 24"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Add (#1 consensus), Wk7 bye",
+      "detail": "Jamey's #1 add: \"64% rostered on our site\u2026 doesn't play in week seven\" (bye), Croskey-Merritt on IR \"at least three more games.\" \"11.1 PPR points or more in three of his last four games.\" Dave: 11 touches is \"his second highest total of the year,\" \"69% of the snaps, handled almost every single third down,\" but McNichols got goal-line work; \"low-end RB2, probably closer to a high-end RB3.\" FAB: \"20%\u2026 would be my max.\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "02:08, 13:54, 15:36\u201317:37, 24:45",
+      "stats": [
+       "Sleeper check: Wk2 14.3, Wk3 11.1, Wk5 3.0, Wk6 15.7 \u2192 3 of last 4 \u2714. Wk6 7-27 + 4/30/1 = 11 touches, 2nd-most (Wk2 13) \u2714. Other 11+ games Wk2/Wk3 \u2714. Snap % not in Sleeper's Wk6 data (unverified). Next: bye, PHI, LAR, @NYG \u2714",
+       "RB2",
+       "RB3"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Add (#1 consensus), Wk7 bye",
+      "detail": "Jamey's #1 add: \"64% rostered on our site\u2026 doesn't play in week seven\" (bye), Croskey-Merritt on IR \"at least three more games.\" \"11.1 PPR points or more in three of his last four games.\" Dave: 11 touches is \"his second highest total of the year,\" \"69% of the snaps, handled almost every single third down,\" but McNichols got goal-line work; \"low-end RB2, probably closer to a high-end RB3.\" FAB: \"20%\u2026 would be my max.\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "02:08, 13:54, 15:36\u201317:37, 24:45",
+      "stats": [
+       "Sleeper check: Wk2 14.3, Wk3 11.1, Wk5 3.0, Wk6 15.7 \u2192 3 of last 4 \u2714. Wk6 7-27 + 4/30/1 = 11 touches, 2nd-most (Wk2 13) \u2714. Other 11+ games Wk2/Wk3 \u2714. Snap % not in Sleeper's Wk6 data (unverified). Next: bye, PHI, LAR, @NYG \u2714",
+       "RB2",
+       "RB3"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Add (#1 consensus), Wk7 bye",
+      "detail": "Jamey's #1 add: \"64% rostered on our site\u2026 doesn't play in week seven\" (bye), Croskey-Merritt on IR \"at least three more games.\" \"11.1 PPR points or more in three of his last four games.\" Dave: 11 touches is \"his second highest total of the year,\" \"69% of the snaps, handled almost every single third down,\" but McNichols got goal-line work; \"low-end RB2, probably closer to a high-end RB3.\" FAB: \"20%\u2026 would be my max.\"",
+      "player": "Rachaad White",
+      "sent": 1,
+      "ts": "02:08, 13:54, 15:36\u201317:37, 24:45",
+      "stats": [
+       "Sleeper check: Wk2 14.3, Wk3 11.1, Wk5 3.0, Wk6 15.7 \u2192 3 of last 4 \u2714. Wk6 7-27 + 4/30/1 = 11 touches, 2nd-most (Wk2 13) \u2714. Other 11+ games Wk2/Wk3 \u2714. Snap % not in Sleeper's Wk6 data (unverified). Next: bye, PHI, LAR, @NYG \u2714",
+       "RB2",
+       "RB3"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     }
+    ],
+    "mentions": 6,
+    "score": 0.46
+   },
+   {
+    "pid": "8161",
+    "name": "Malik Willis",
+    "pos": "QB",
+    "team": "MIA",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 27,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "8205",
+    "name": "Isiah Pacheco",
+    "pos": "RB",
+    "team": "DET",
+    "slot": "IR",
+    "group": "IR",
+    "inj": "IR",
+    "age": 27,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "9502",
+    "name": "Tank Dell",
+    "pos": "WR",
+    "team": "HOU",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": "IR",
+    "age": 26,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Hold on IR / don't start",
+      "detail": "Heath: returning \"this week\"; he has Dell on 4\u20135 dynasty rosters; hears little optimism. Alfredo: \"the dollar you find in your jeans\"; slow-played; maybe a 30\u201340% snap share by season's end; \"roster clogger\u2026 until proven otherwise.\" *Sleeper still shows IR (knee, ACL + MCL). Age 26. FC 1184, +237. Yours (IR slot).*",
+      "player": "Tank Dell",
+      "sent": 0,
+      "ts": "38:48",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Hold on IR / don't start",
+      "detail": "Heath: returning \"this week\"; he has Dell on 4\u20135 dynasty rosters; hears little optimism. Alfredo: \"the dollar you find in your jeans\"; slow-played; maybe a 30\u201340% snap share by season's end; \"roster clogger\u2026 until proven otherwise.\" *Sleeper still shows IR (knee, ACL + MCL). Age 26. FC 1184, +237. Yours (IR slot).*",
+      "player": "Tank Dell",
+      "sent": 0,
+      "ts": "38:48",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Watch for activation",
+      "detail": "\"Tank Dell is going to play this week\"",
+      "player": "Tank Dell",
+      "sent": 0,
+      "ts": "19:58",
+      "stats": [
+       "Sleeper check: Sleeper still lists IR (ACL + MCL). On your DYN IR"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "\"Making his return to the lineup",
+      "take": "",
+      "detail": "",
+      "player": "Tank Dell",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Good for you either way"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "\" which clouds Noel",
+      "take": "",
+      "detail": "",
+      "player": "Tank Dell",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Good for you either way"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Sal Vetri",
+      "take": "Stash (owners)",
+      "detail": "\"Banged up. He could be returning soon, which kind of gets some things wonky\"",
+      "player": "Tank Dell",
+      "sent": 1,
+      "ts": "10:04",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     }
+    ],
+    "mentions": 5,
+    "score": 0.12
+   },
+   {
+    "pid": "9754",
+    "name": "Quentin Johnston",
+    "pos": "WR",
+    "team": "LAC",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 25,
+    "takes": [
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "Fade",
+      "detail": "His only catch was a 57-yarder on 3 targets",
+      "player": "Quentin Johnston",
+      "sent": -1,
+      "ts": "1:34",
+      "stats": [
+       "3 targets"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Lone catch was a 57-yarder on 3 targets; LAC is \"pointless\"",
+      "take": "",
+      "detail": "",
+      "player": "Quentin Johnston",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Bench"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Only came up in the all-bust draft banter",
+      "take": "",
+      "detail": "",
+      "player": "Quentin Johnston",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: BN",
+       "Wk6: 6.70",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:eJjRk4GDcVg",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Adam Aizer",
+      "take": "Info",
+      "detail": "Back today vs the Chiefs",
+      "player": "Quentin Johnston",
+      "sent": 0,
+      "ts": "07:07",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=eJjRk4GDcVg"
+     },
+     {
+      "ep": "fft:tjd4BB1W_TU",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Heath Cummings",
+      "take": "\"I would go Johnston\" over Cyrus Allen, Royals and Josh Cameron (non-PPR)",
+      "detail": "\"I would go Johnston\" over Cyrus Allen, Royals and Josh Cameron (non-PPR)",
+      "player": "Quentin Johnston",
+      "sent": 1,
+      "ts": "47:35",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=tjd4BB1W_TU"
+     }
+    ],
+    "mentions": 5,
+    "score": 0.0
+   }
+  ],
+  "fetched": "2026-10-20T21:15",
+  "show_notes": [
+   {
+    "ep": "fft:SfoaRkbmsZk",
+    "show": "fft",
+    "date": "2026-10-20",
+    "title": "Who to Add for Week 7? Waiver Wire Targets, Streamers & Must-Have Pickups | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk",
+    "text": "**DYNASTY: Amon A Boat! (Poncho)**\n\n**Freddy (FreddyB2)**\n- **MAIN (your Week 7 opponent):** He **starts Rodgers** (Jamey's #2 QB, \"four straight\" 20-pointers) and **Dameon Pierce** (\"a lower number two running back flex option\" if Barkley sits). His bench QB **Kirk Cousins** is Dave's #1 stream, so Freddy has two QBs the hosts like.\n- **DYNASTY:** He **starts MarShawn Lloyd**, whom Dave says to drop for Pierre Strong (\"Marshon Lloyd has really just not looked good at all this year\"). He also starts **Kendrick Bourne** (Jamey's \"safe option\u2026 don't have the upside\") and **Germie Bernard** (must-add). On his bench he's sitting on **Hunter Henry**, **Terrance Ferguson** (Dave's #1 stash), **Will Reichard** (15/15) and **Jahmyr Gibbs**, who just lost a YPC contest to Ollie Gordon. Dave, on that one: \"I'm gonna cry if it's [Ollie] Gordon.\"\n\n---"
+   },
+   {
+    "ep": "fft:xDb5LZhuC88",
+    "show": "fft",
+    "date": "2026-10-20",
+    "title": "Week 7 Waiver Wire: MUST ADD Players, Injury Replacements & Streamers | 2026 Fantasy Football Advice",
+    "url": "https://www.youtube.com/watch?v=xDb5LZhuC88",
+    "text": "**DYNASTY: Amon A Boat! (Poncho, 3-3)**\n\n**Freddy (FreddyB2)**\n- **MAIN, Flowers for Ms. Jackson (2-4), your Week 7 opponent:** His starters got rough reviews. **Kirk Cousins**: \"brutal\" schedule starting with the Rams, and the hosts would start Murray and Rodgers over him this week (with a \"wheels are falling off\" worry). **Juwan Johnson** got a 0 and a 5 on the Drop-O-Meter after 5.6 and 0.0. **Devaughn Vele** got \"a sad goodbye,\" with NO on bye next week. **Dameon Pierce** is his best piece (15.0 PPR, plus Carson Steele's shoulder). He has the better QB (Rodgers, vs NO) on his bench. **Saquon** \"didn't practice at all.\"\n- **DYNASTY, The Man in Jahmyr (3-3):** Freddy has **both of the show's top TE targets on his bench**: Jamey's #1 add **Hunter Henry** and Dave's #1 stash **Terrance Ferguson**. He starts **MarShawn Lloyd**, whom Jamey would \"move on from,\" and **Harold Fannin** (Drop-O-Meter 5). **Germie Bernard** is the show's \"number one player to add\" in shallow leagues, and he already has him. **Kendrick Bourne** got the \"safe floor, not a high ceiling\" label.\n\n**Your-teams bottom line:** In MAIN you have a real hole this week (Hampton bye plus an empty slot), and the wire has what you need: Cooper, Douglas, Pitts, Henry and Murray. In DYNASTY, sit Hockenson and Warren (both Out on Sleeper) and lean on Keenan Allen. White is your post-bye payoff.\n\n---"
+   },
+   {
+    "ep": "btbs:C7zg74XkPU8",
+    "show": "btbs",
+    "date": "2026-10-20",
+    "title": "Rest of season BOLD PREDICTIONS I Week 6 Hot Takes",
+    "url": "https://www.youtube.com/watch?v=C7zg74XkPU8",
+    "text": "**DYNASTY: Amon A Boat! (SCLSU Mud Dogs, full PPR, 2-3)**\n- **Kenneth Walker (your RB):** \"playing on another planet\" (Theo), with 19-128-2 in Week 6 **[my check]**. He's the reason the hosts think KC's pass game is opening up, so he's a dynasty cornerstone. He's at SEA on SNF in his revenge game.\n- **Aaron Rodgers (bench QB):** 49 attempts in Week 6 and 31-plus in every game. He's a viable fill-in at NO while Jayden Daniels and Trevor Lawrence are on bye.\n- **Rico Dowdle (bench):** Theo was annoyed that Dowdle tied Warren with 4 targets, but both hosts say Warren is still easily the back to own. Treat Dowdle as a handcuff, not a flex.\n- **Trevor Lawrence (bench, bye):** Jacob says Lawrence and Tuten could be \"true league winners\" in a late heater like last year. Hold him.\n- **Rome Odunze (starter):** the first-read data favored Burden (32%) and Loveland in Week 6, with Odunze getting \"Roma weeks\" in downfield scripts. NE's battered O-line could hand CHI an easy win (Theo), which may mean fewer pass attempts.\n- **Justice Hill (bench):** Jacob lumped him in with \"guys\u2026 [who] really aren't relevant for fantasy.\" He's safe to cut if you need the spot.\n- **Hockenson and Tyler Warren** are both Out. The hosts didn't discuss them today; per the FFT waiver report, Keenan Allen is your TE-week pivot plan.\n- **Freddy's DYNASTY roster** has three of today's buy targets: **Loveland** (Jacob's top-5 TE call), **Germie Bernard** (top-30 WR) and **McMillan**. Good luck prying them loose.\n- **Free agents here:** J.J. McCarthy and Tyrone Tracy Jr. are free. (Lane, Rodriguez and Bateman are rostered.)"
+   },
+   {
+    "ep": "bdge:uMWpPOnuudg",
+    "show": "bdge",
+    "date": "2026-10-20",
+    "title": "A Week to Take Advantage of Your Idiot Leaguemates on Waivers",
+    "url": "https://www.youtube.com/watch?v=uMWpPOnuudg",
+    "text": "**DYNASTY: Amon A Boat! (Poncho)**\n\n**Freddy, MAIN: Flowers for Ms. Jackson**\n- **Keaton Mitchell** (bench): \"an easy drop.\"\n- **Saquon / Pierce:** McKee is PHI's QB for the year, with \"really, really poor\" efficiency, which hurts the whole PHI offense.\n- **Kirk Cousins:** Michael expects LV to \"rack up some pass volume\" vs LAR (the Mayer section). **Bijan:** the Penix TD coin-flip cuts into Bijan's goal-line TDs. **Zay Flowers:** Lane is lining up as the WR2 behind him once Lamar returns. **Vele / Juwan Johnson:** the NO offense \"has not been effective.\" **Jakobi Meyers:** JAX is pushing its depth WRs (BTJ) out. **Jaguars DEF:** not discussed.\n\n**Freddy, DYNASTY: The Man in Jahmyr**\n- **MarShawn Lloyd** (his RB starter): \"easy drop\" now that Jacobs is back. That's the second show today to say so.\n- **Terrance Ferguson** (his bench, IR): Michael's #1 TE stash, so Freddy owns the guy this show wants most.\n- **Dylan Sampson** (his bench, IR): Michael's preferred CLE back once he's active. Another Freddy win.\n- **Courtland Sutton** (his starter): \"Straight up awful\u2026 easy drop.\"\n- **Hunter Henry** (his bench): worth a pickup. **Fannin / Raheim Sanders:** CLE's backfield goes McLaughlin \u2192 Sampson. **Kyren / Corum / Stafford / Ty Simpson:** LAR goes heavy 13 personnel without Adams. **Jaxson Dart (IR):** NYG might hand McCarthy the job. **Addison:** a Kyler \"cupcake\" stretch helps. **Deebo (Out):** Evans is out too, so Cooks and Kirk soak up routes.\n\n---"
+   },
+   {
+    "ep": "fft:PXhKKHAVMqc",
+    "show": "fft",
+    "date": "2026-10-19",
+    "title": "Week 6 Winners & Losers: Biggest Takeaways From Every Game! | 2026 Fantasy Football Advice",
+    "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc",
+    "text": "Scoring reminder: **MAIN** = full PPR + 6-pt pass TD + 0.25/carry + 0.25/first down + yardage bonuses (that's why MAIN points \u2260 the plain PPR numbers in Guru's context). **DYNASTY** = full PPR, 4-pt pass TD."
+   },
+   {
+    "ep": "btbs:6PwsOSVVT2U",
+    "show": "btbs",
+    "date": "2026-10-19",
+    "title": "Week 6 Recap: McCarthy vs Winston, Coker vs McMillan, Jacobs Returns, & More! | Beyond the Box Score",
+    "url": "https://www.youtube.com/watch?v=6PwsOSVVT2U",
+    "text": "**DYNASTY: Amon A Boat! (SCLSU Mud Dogs, full PPR, 2-3)**\n- **Washington stack (Jayden Daniels, Rachaad White, Stefon Diggs, Austin Ekeler):** Dan is \"buying that whole offense taking a step forward\" and said Jayden \"looked pretty good.\" They play MNF tonight; per the Schefter note, a loss would keep the NFC East winless.\n- **Rome Odunze:** Dan is \"good on buying in on any Bears.\" Caleb's Week 6 was dink-and-dunk (aDOT 3.9), so expect more downfield work when the script is closer. The Bears host a battered Patriots O-line Thursday.\n- **Rico Dowdle / Aaron Rodgers (PIT):** Jaylen Warren played 75% of snaps, so Dowdle stays a bench piece. Germie Bernard's 18 touches in two games eat into the short-area work.\n- **Tyler Warren (out):** Jacob has him \"clearly ahead\" of Likely at TE, a good dynasty hold.\n- **Quentin Johnston / Brenen Thompson (LAC):** McConkey (concussion) plus a bye; there's no Chargers game this week.\n- **Tank Dell (IR, HOU):** the Houston room is crowded (Nico, MHJ, Noel), so his ROS path is hard.\n- **Jayden Reed (IR, GB):** Golden is \"open all the time\" and Watson is producing, so expect a crowded return.\n- **Amon-Ra St. Brown (DET):** the Lions host GB Week 7, and per Adam DET is the worst vs TE. Kraft vs DET is the matchup to watch.\n- **Free agents in this league the hosts liked:** Tyrone Tracy Jr., Jaylin Noel, Jahan Dotson, Kyler Murray, DeMario Douglas, Cole Kmet."
+   },
+   {
+    "ep": "fft:eJjRk4GDcVg",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "LAST-MINUTE Week 6 Fantasy Football Start 'Em, Sit 'Em Advice! Actives/Inactives & Q&A (FFT Express)",
+    "url": "https://www.youtube.com/watch?v=eJjRk4GDcVg",
+    "text": "**DYNASTY (SCLSU Mud Dogs):**\n- **Braelon Allen (RB, starter):** treated as a clear start. Heath took **Allen + Hampton** from Allen, Kamara, Corum and Hampton. \u2192 **Start.** *(Guru's context: Breece Hall, also on your bench, was declared inactive for the Jets, per NFL.com's Week 6 list. That's the reason Allen's role grew.)*\n- **Rachaad White and Austin Ekeler (WAS, MNF):** a committee, and Heath puts White below the RB2 cutoff. McNichols could take the carries.\n- **Keenan Allen (W/R/T):** Heath is \"the low guy\" with Allen in the 40s, but he rises to \u2248top-36 with Warren out. Warren **was inactive**, so Allen is a playable flex.\n- **Tyler Warren (bench TE):** GTD in the show, **inactive** per the Colts.\n- **Stefon Diggs (starter WR, MNF):** status unknown, so line up a backup. Cooks or Kirk can serve as hedges for Diggs too.\n- **Quentin Johnston (bench):** back vs KC; no verdict given."
+   },
+   {
+    "ep": "fft:7mYlfxCscaY",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "FINAL Week 6 Start/Sit Cheat Sheet PART 2! LIVE Q&A + Actives/Inactives News | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=7mYlfxCscaY",
+    "text": "**DYNASTY (SCLSU Mud Dogs):**\n- **Jayden Daniels (QB, MNF):** both took **Jordan Love over Daniels**. Jamey ended up taking Daniels over Rodgers and Bryce Young (\"Actually, I go Daniels\"). Shough-or-Daniels went unanswered.\n- **Braelon Allen (RB):** used as a weekly starter. AJ Brown + Braelon; Kraft + Braelon; ahead of Lloyd for Adam and ahead of Skattebo for Jamey. Lost to Pickens/Bucky, A.J. Brown and Coker. \u2192 **Start.**\n- **Rome Odunze (WR):** Jamey took Odunze over Pierce and Shakir, but **Bernard over Odunze**. Jamey's tape note: \"still is a really good player\u2026 but I don't think we can trust it yet.\"\n- **Keenan Allen (W/R/T):** Jamey moved him up with Warren out but still took **Bernard over Keenan Allen**.\n- **Rachaad White (W/R/T, MNF):** Ben Standig: \"the majority of playing time will go to White,\" with McNichols getting goal-line chances. Jamey: White over Corum, Najee and Ekeler (non-PPR). Adam: \"Rashad White would be my preference\" among the WAS backs.\n- **Stefon Diggs (WR, MNF):** \"We don't know if Digs is playing, so play it safe.\" Kendre Miller was preferred over him. If you need a safe Sunday option for that slot, take it.\n- **Tyler Warren (bench TE):** **OUT**, \"the big surprise.\"\n- **Aaron Rodgers (bench):** over Brissett; under Bryce Young and Daniels.\n- **Austin Ekeler (bench):** lost to White (non-PPR).\n- **Rico Dowdle (bench):** Jamey: \"I probably still go Rico\" over Najee.\n- **Trevor Lawrence (bench):** not discussed (he'd already played)."
+   },
+   {
+    "ep": "fft:tjd4BB1W_TU",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "FINAL Week 6 Start/Sit Cheat Sheet PART 1! LIVE Q&A + Actives/Inactives News | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=tjd4BB1W_TU",
+    "text": "**DYNASTY (SCLSU Mud Dogs):**\n- **Jayden Daniels (QB, MNF):** Heath took **Jordan Love over Daniels** (\"He's my QB2 this week\"). No other Daniels verdict.\n- **Braelon Allen (RB):** a clear start for Heath. Allen > Allgeier and Allen > Rhamondre; \u2248 Tuten (Adam took Tuten); **Bucky Irving > Allen** (Heath). Kept in every RB/flex set.\n- **Brock Bowers (TE):** \"I'm going to trust Brock Bowers.\"\n- **Keenan Allen (W/R/T):** Warren-dependent. Keenan is the choice over White if Warren is out, and he ranks ahead of Coleman if Warren is out. Heath picked Worthy over Ladd and Keenan. With Warren **inactive**, Keenan is a flex.\n- **Rachaad White (W/R/T, MNF):** Heath: \"full-blown committee in a very bad matchup.\" Lost to Hampton and Vele; beat Kendre Miller; if Warren is out, Keenan beats White. **Since Warren was ruled out, the hosts' logic says start Keenan Allen over White at W/R/T.**\n- **Stefon Diggs (WR, MNF):** status unknown; Heath would \"wait\" if he had Diggs. Have a backup ready.\n- **Tyler Warren (bench TE):** Heath benched him for Strange before the news. **Inactive.**\n- **Trevor Lawrence (bench QB):** loses to Dak and Cousins, beats Jameis and Stroud, a coin flip with Mahomes. (He already played in London; JAX lost 31-34.)\n- **Aaron Rodgers (bench QB):** \"I do not trust Aaron Rogers\" (Heath). Shough is preferred; Adam would take Rodgers over Jameis.\n- **Austin Ekeler (bench):** banged up and in Heath's Rico Dowdle tier. **Rico Dowdle (bench):** \"not worth a flex,\" a possible goal-line role.\n- **Quentin Johnston (bench):** Heath picked Johnston over Cyrus Allen, Royals and **Josh Cameron (also yours)** in non-PPR.\n- **Amon-Ra St. Brown (bench):** only mentioned as sitting on Heath's bench (DET bye).\n- **Caleb Douglas (taxi):** \"Douglas\" in a sit-two at 57:09 got benched, along with Bourne. It's *probably* Caleb Douglas, but not certain.\n- **Breece Hall:** never mentioned by the hosts. *(Guru: inactive, per NFL.com.)*"
+   }
+  ]
+ },
+ {
+  "key": "MAIN_LEAGUE",
+  "label": "MAIN LEAGUE",
+  "team": "Taylor Snift",
+  "league_name": "Myles High Club",
+  "source": "sleeper",
+  "season": "2026",
+  "week": 6,
+  "record": "2-4",
+  "rank": 7,
+  "pf": 976.0,
+  "pa": 923.5,
+  "max_pf": 1098.25,
+  "n_teams": 10,
+  "roster_positions": [
+   "QB",
+   "RB",
+   "RB",
+   "WR",
+   "WR",
+   "TE",
+   "FLEX",
+   "FLEX",
+   "K",
+   "DEF",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN"
+  ],
+  "scoring": {
+   "sack": 1.0,
+   "fgm_40_49": 0.0,
+   "fgm_yds": 0.1,
+   "bonus_rec_yd_100": 3.0,
+   "bonus_rush_yd_100": 3.0,
+   "pass_int": -2.0,
+   "pts_allow_0": 20.0,
+   "bonus_pass_yd_400": 2.0,
+   "pass_2pt": 2.0,
+   "st_td": 6.0,
+   "rec_td": 6.0,
+   "fgm_30_39": 0.0,
+   "fgm_50_59": 0.0,
+   "xpmiss": -1.0,
+   "rush_td_50p": 2.0,
+   "rush_td": 6.0,
+   "def_4_and_stop": 2.0,
+   "pass_td_40p": 1.0,
+   "bonus_rush_rec_yd_100": 0.0,
+   "rec_2pt": 2.0,
+   "rush_fd": 0.25,
+   "pass_int_td": -2.0,
+   "st_fum_rec": 1.0,
+   "fgmiss": 0.0,
+   "ff": 0.0,
+   "rec": 1.0,
+   "pts_allow_14_20": 2.0,
+   "def_2pt": 2.0,
+   "fgm_0_19": 0.0,
+   "int": 2.0,
+   "def_st_fum_rec": 1.0,
+   "fum_lost": -1.0,
+   "pts_allow_1_6": 10.0,
+   "rec_fd": 0.25,
+   "fgm_60p": 0.0,
+   "fgmiss_20_29": -1.0,
+   "rush_att": 0.25,
+   "fgm_20_29": 0.0,
+   "pts_allow_21_27": 0.0,
+   "bonus_pass_yd_300": 3.0,
+   "xpm": 1.0,
+   "pass_td_50p": 1.0,
+   "pass_sack": -0.25,
+   "def_3_and_out": 0.5,
+   "fgmiss_0_19": -2.0,
+   "rush_2pt": 2.0,
+   "fum_rec": 2.0,
+   "bonus_rec_yd_200": 2.0,
+   "def_st_td": 6.0,
+   "def_td": 6.0,
+   "rec_td_40p": 1.0,
+   "bonus_rush_yd_200": 2.0,
+   "safe": 4.0,
+   "pass_yd": 0.05,
+   "rec_td_50p": 2.0,
+   "blk_kick": 3.0,
+   "pass_td": 6.0,
+   "rush_yd": 0.1,
+   "fum": 0.0,
+   "pts_allow_28_34": 0.0,
+   "pts_allow_35p": -2.0,
+   "fum_rec_td": 6.0,
+   "rec_yd": 0.1,
+   "rush_td_40p": 1.0,
+   "def_st_ff": 1.0,
+   "pts_allow_7_13": 5.0,
+   "st_ff": 1.0
+  },
+  "standings": [
+   {
+    "roster_id": 8,
+    "team": "MAYEEEDAYY",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 1110.25,
+    "pa": 1071.7,
+    "max_pf": 1214.8,
+    "me": false,
+    "rank": 1
+   },
+   {
+    "roster_id": 3,
+    "team": "Amon Raw, Next Question",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 1065.55,
+    "pa": 1000.75,
+    "max_pf": 1198.6,
+    "me": false,
+    "rank": 2
+   },
+   {
+    "roster_id": 7,
+    "team": "Killa Walleye",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 966.1,
+    "pa": 892.65,
+    "max_pf": 1059.95,
+    "me": false,
+    "rank": 3
+   },
+   {
+    "roster_id": 5,
+    "team": "The Ginyu Force",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pf": 904.55,
+    "pa": 906.35,
+    "max_pf": 1045.65,
+    "me": false,
+    "rank": 4
+   },
+   {
+    "roster_id": 2,
+    "team": "Phantom Troupe",
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "pf": 1036.1,
+    "pa": 953.55,
+    "max_pf": 1220.75,
+    "me": false,
+    "rank": 5
+   },
+   {
+    "roster_id": 4,
+    "team": "motownmatt",
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "pf": 1014.55,
+    "pa": 979.95,
+    "max_pf": 1151.2,
+    "me": false,
+    "rank": 6
+   },
+   {
+    "roster_id": 6,
+    "team": "Taylor Snift",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pf": 976.0,
+    "pa": 923.5,
+    "max_pf": 1098.25,
+    "me": true,
+    "rank": 7
+   },
+   {
+    "roster_id": 9,
+    "team": "Malik\u2019in Swifts Nudes",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pf": 957.95,
+    "pa": 1142.5,
+    "max_pf": 1059.25,
+    "me": false,
+    "rank": 8
+   },
+   {
+    "roster_id": 10,
+    "team": "FickYourNail",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pf": 876.25,
+    "pa": 879.55,
+    "max_pf": 1007.5,
+    "me": false,
+    "rank": 9
+   },
+   {
+    "roster_id": 1,
+    "team": "Flowers for Ms. Jackson",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pf": 837.95,
+    "pa": 994.75,
+    "max_pf": 901.05,
+    "me": false,
+    "rank": 10
+   }
+  ],
+  "weekly": [
+   {
+    "week": 1,
+    "pts": 161.35,
+    "opp_pts": 138.35,
+    "opp": "motownmatt",
+    "league_median": 165.55,
+    "league_high": 222.1
+   },
+   {
+    "week": 2,
+    "pts": 247.85,
+    "opp_pts": 135.25,
+    "opp": "MAYEEEDAYY",
+    "league_median": 135.25,
+    "league_high": 247.85
+   },
+   {
+    "week": 3,
+    "pts": 107.4,
+    "opp_pts": 137.95,
+    "opp": "Killa Walleye",
+    "league_median": 167.85,
+    "league_high": 209.5
+   },
+   {
+    "week": 4,
+    "pts": 159.85,
+    "opp_pts": 175.1,
+    "opp": "Phantom Troupe",
+    "league_median": 160.95,
+    "league_high": 208.45
+   },
+   {
+    "week": 5,
+    "pts": 160.1,
+    "opp_pts": 195.3,
+    "opp": "The Ginyu Force",
+    "league_median": 163.55,
+    "league_high": 275.35
+   },
+   {
+    "week": 6,
+    "pts": 139.45,
+    "opp_pts": 141.55,
+    "opp": "FickYourNail",
+    "league_median": 141.55,
+    "league_high": 184.55
+   }
+  ],
+  "matchup": {
+   "week": 6,
+   "me": 139.45,
+   "opp": 141.55,
+   "opp_team": "FickYourNail",
+   "starters_points": {
+    "Josh Allen": 25.85,
+    "Jonathan Taylor": 29.1,
+    "Omarion Hampton": 9.9,
+    "Davante Adams": 7.65,
+    "Keon Coleman": 16.65,
+    "Mark Andrews": 1.65,
+    "Jalen Coker": 16.7,
+    "Xavier Worthy": 15.05,
+    "Ka'imi Fairbairn": 11.4,
+    "Los Angeles Rams": 5.5
+   },
+   "opp_starters": [
+    {
+     "name": "Matthew Stafford",
+     "pos": "QB",
+     "pts": 22.35
+    },
+    {
+     "name": "James Cook",
+     "pos": "RB",
+     "pts": 31.8
+    },
+    {
+     "name": "RJ Harvey",
+     "pos": "RB",
+     "pts": 17.1
+    },
+    {
+     "name": "Luther Burden",
+     "pos": "WR",
+     "pts": 18.0
+    },
+    {
+     "name": "DeVonta Smith",
+     "pos": "WR",
+     "pts": 21.0
+    },
+    {
+     "name": "Harold Fannin",
+     "pos": "TE",
+     "pts": 1.9
+    },
+    {
+     "name": "Austin Ekeler",
+     "pos": "RB",
+     "pts": 2.95
+    },
+    {
+     "name": "Terry McLaurin",
+     "pos": "WR",
+     "pts": 3.95
+    },
+    {
+     "name": "Matt Gay",
+     "pos": "K",
+     "pts": 11.5
+    },
+    {
+     "name": "San Francisco 49ers",
+     "pos": "DEF",
+     "pts": 11.0
+    }
+   ]
+  },
+  "transactions": [
+   {
+    "week": 5,
+    "type": "waiver",
+    "adds": [
+     "Makai Lemon"
+    ],
+    "drops": [],
+    "ts": 1791525986893
+   },
+   {
+    "week": 5,
+    "type": "free_agent",
+    "adds": [],
+    "drops": [
+     "Michael Pittman"
+    ],
+    "ts": 1791491835293
+   },
+   {
+    "week": 6,
+    "type": "free_agent",
+    "adds": [],
+    "drops": [
+     "Makai Lemon"
+    ],
+    "ts": 1792363197679
+   },
+   {
+    "week": 6,
+    "type": "free_agent",
+    "adds": [
+     "Kendre Miller"
+    ],
+    "drops": [],
+    "ts": 1792332300860
+   }
+  ],
+  "roster": [
+   {
+    "pid": "4046",
+    "name": "Patrick Mahomes",
+    "pos": "QB",
+    "team": "KC",
+    "slot": "QB",
+    "group": "Starter",
+    "inj": null,
+    "age": 31,
+    "takes": [
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Info",
+      "detail": "",
+      "player": "Patrick Mahomes",
+      "sent": 0,
+      "ts": "06:17",
+      "stats": [
+       "Has spent years doing straight dropbacks into pass defenses; now has a real run threat"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "S",
+      "detail": "272 yds",
+      "player": "Patrick Mahomes",
+      "sent": 1,
+      "ts": "1:27",
+      "stats": [
+       "272 yds"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "272 yds vs LAC; only a box-score mention",
+      "take": "",
+      "detail": "",
+      "player": "Patrick Mahomes",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Your Wk7 QB"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Only mentioned via Worthy",
+      "take": "",
+      "detail": "",
+      "player": "Patrick Mahomes",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Your Wk7 QB with Allen on bye"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Walker context",
+      "take": "",
+      "detail": "",
+      "player": "Patrick Mahomes",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Your Wk7 QB with Allen on bye"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     },
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "not by name",
+      "take": "",
+      "detail": "",
+      "player": "Patrick Mahomes",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Your Wk7 QB with Allen on bye"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     }
+    ],
+    "mentions": 9,
+    "score": 0.05
+   },
+   {
+    "pid": "6813",
+    "name": "Jonathan Taylor",
+    "pos": "RB",
+    "team": "IND",
+    "slot": "RB",
+    "group": "Starter",
+    "inj": null,
+    "age": 27,
+    "takes": [
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Not discussed",
+      "take": "",
+      "detail": "",
+      "player": "Jonathan Taylor",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: RB",
+       "Wk6 (MAIN): 29.10",
+       "Guru read: Still the hammer"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "\"Phenomenal. Just keep him in your lineup\"",
+      "take": "S",
+      "detail": "",
+      "player": "Jonathan Taylor",
+      "sent": 1,
+      "ts": "18:53",
+      "stats": [
+       "\"Phenomenal. Just keep him in your lineup\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "\"Phenomenal. Just keep him in your lineup\"",
+      "take": "",
+      "detail": "",
+      "player": "Jonathan Taylor",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read: Locked"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     }
+    ],
+    "mentions": 3,
+    "score": 0.33
+   },
+   {
+    "pid": "12495",
+    "name": "Ollie Gordon",
+    "pos": "RB",
+    "team": "MIA",
+    "slot": "RB",
+    "group": "Starter",
+    "inj": "Questionable",
+    "age": 22,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Buy (rental)",
+      "detail": "Alfredo prefers him to Marks: nobody else to take work, 3 years younger (*22 vs 25 \u2714*), one spot higher in his dynasty ranks, \"one of the easiest fantasy playoff schedules for running backs.\" Long term: \"at best case scenario, Ollie Gordon is the Thunder to [De'Von Achane]'s Lightning, and that's five or six touches a game\" (caption reads \"Han's\"; Heath's intro joked Gordon has been \"better than Devon Achan[e] apparently\"). Price: late 2nd. *Wk3\u20135: 17-41-1, 9-100-1, 18-88-1. Sleeper status Questionable (undisclosed). Age 22. FC 1796 [RB33], +1291 in 30 days. Rostered: durk18. You start him in MAIN.*",
+      "player": "Ollie Gordon",
+      "sent": 1,
+      "ts": "17:30",
+      "stats": [
+       "-1",
+       "RB33"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Buy (rental)",
+      "detail": "Alfredo prefers him to Marks: nobody else to take work, 3 years younger (*22 vs 25 \u2714*), one spot higher in his dynasty ranks, \"one of the easiest fantasy playoff schedules for running backs.\" Long term: \"at best case scenario, Ollie Gordon is the Thunder to [De'Von Achane]'s Lightning, and that's five or six touches a game\" (caption reads \"Han's\"; Heath's intro joked Gordon has been \"better than Devon Achan[e] apparently\"). Price: late 2nd. *Wk3\u20135: 17-41-1, 9-100-1, 18-88-1. Sleeper status Questionable (undisclosed). Age 22. FC 1796 [RB33], +1291 in 30 days. Rostered: durk18. You start him in MAIN.*",
+      "player": "Ollie Gordon",
+      "sent": 1,
+      "ts": "17:30",
+      "stats": [
+       "-1",
+       "RB33"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Who Has More",
+      "take": "Your MAIN starter",
+      "detail": "\"Five yards per carry\" vs Gibbs \"4.8\" \u2014 Jamey wins the point",
+      "player": "Ollie Gordon",
+      "sent": 0,
+      "ts": "37:53",
+      "stats": [
+       "Sleeper check: Gordon 236/47 = 5.02 \u2714; Gibbs 504/105 = 4.80 \u2714"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     }
+    ],
+    "mentions": 2,
+    "score": 0.67
+   },
+   {
+    "pid": "11624",
+    "name": "Xavier Worthy",
+    "pos": "WR",
+    "team": "KC",
+    "slot": "WR",
+    "group": "Starter",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Buy",
+      "detail": "",
+      "player": "Xavier Worthy",
+      "sent": 1,
+      "ts": "01:33",
+      "stats": [
+       "Back-to-back games with 70+ rec yards and 7 targets each; 2+ YPRR over the past two games, \"almost double\" his career norm; 4 receptions for 34 yards as the motion man in Week 6",
+       "My check: \u2705 4-70 on 7 targets (Wk4), 7-73 on 7 targets (Wk6); KC had a Wk5 bye. YPRR and motion splits unverifiable"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Theo Gremminger",
+      "take": "Buy",
+      "detail": "",
+      "player": "Xavier Worthy",
+      "sent": 1,
+      "ts": "04:36",
+      "stats": [
+       "Season highs in yards and catches, tied season high in targets; 6+ targets in all but one game",
+       "My check: \u2705 7 catches and 73 yards are season highs; targets 6, 7, 2, 7, 7 (only Wk3 under 6)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Buy",
+      "detail": "",
+      "player": "Xavier Worthy",
+      "sent": 1,
+      "ts": "05:57",
+      "stats": [
+       "Slot rate up to 30%; 100+ YAC on the year, 5.1 YAC per reception; healthy for the first time in his career",
+       "My check: Consistent: 21 catches \u00d7 5.1 \u2248 107 YAC (Sleeper has no YAC field to confirm)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Jacob Gibbs: the route-data maximalist",
+      "take": "Start",
+      "detail": "",
+      "player": "Xavier Worthy",
+      "sent": 1,
+      "ts": "07:38",
+      "stats": [
+       "\"For as long as Rice is out I think Worthy's like a top 24 to 30 receiver\"; had him WR22 entering Week 6; rather have him than Keon Coleman"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "Flex while Rice out",
+      "detail": "7-73, 4.8 yds/target; only the 2nd time in his career he's had 7 catches and 73 yds; \"career day\u2026 finishes like receiver 25.\" Gets Rice's layups when Rice is out. Rice \"didn't practice a single time\"",
+      "player": "Xavier Worthy",
+      "sent": 0,
+      "ts": "1:27, 1:30\u20131:32",
+      "stats": [
+       "-73",
+       "4.8 yds",
+       "7 catches",
+       "73 yds"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "Flex while Rice out",
+      "detail": "7-73, 4.8 yds/target; only the 2nd time in his career he's had 7 catches and 73 yds; \"career day\u2026 finishes like receiver 25.\" Gets Rice's layups when Rice is out. Rice \"didn't practice a single time\"",
+      "player": "Xavier Worthy",
+      "sent": 0,
+      "ts": "1:27, 1:30\u20131:32",
+      "stats": [
+       "-73",
+       "4.8 yds",
+       "7 catches",
+       "73 yds"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 12,
+    "score": 0.0
+   },
+   {
+    "pid": "11646",
+    "name": "Jalen Coker",
+    "pos": "WR",
+    "team": "CAR",
+    "slot": "WR",
+    "group": "Starter",
+    "inj": null,
+    "age": 24,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Hold / buy for a 1st",
+      "detail": "Heath would trade a late 2027 1st for him, but managers won't sell; his only problem is health; he'd sell for a 2027 1st. Alfredo would pay a 2027 1st as a contender. *Wk6: 13 targets, 6-97. Age 24. FC 2598 (+475). Rostered: cdurka55. You start him in MAIN.*",
+      "player": "Jalen Coker",
+      "sent": 0,
+      "ts": "51:12",
+      "stats": [
+       "13 targets"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Hold / buy for a 1st",
+      "detail": "Heath would trade a late 2027 1st for him, but managers won't sell; his only problem is health; he'd sell for a 2027 1st. Alfredo would pay a 2027 1st as a contender. *Wk6: 13 targets, 6-97. Age 24. FC 2598 (+475). Rostered: cdurka55. You start him in MAIN.*",
+      "player": "Jalen Coker",
+      "sent": 0,
+      "ts": "51:12",
+      "stats": [
+       "13 targets"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Theo Gremminger",
+      "take": "Start",
+      "detail": "",
+      "player": "Jalen Coker",
+      "sent": 1,
+      "ts": "22:48",
+      "stats": [
+       "13 targets; Coker + McMillan 22 targets, a \"60% plus\" consolidated share; one of the highest WR-pair shares ROS; credits Jacob for last week's Coker call",
+       "My check: \u2705 13 + 9 = 22 of 35 CAR targets (62.9%)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "S",
+      "detail": "30+ yds on a critical 3rd-and-8 angle route out of the backfield; career-high targets; Matt: Chris Godwin comp; WR13 PPG (half-PPR) since Thanksgiving incl. playoffs; \"one of the best young receivers in the NFL, period\"",
+      "player": "Jalen Coker",
+      "sent": 1,
+      "ts": "0:41\u20130:43",
+      "stats": [
+       "WR13"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "S",
+      "detail": "30+ yds on a critical 3rd-and-8 angle route out of the backfield; career-high targets; Matt: Chris Godwin comp; WR13 PPG (half-PPR) since Thanksgiving incl. playoffs; \"one of the best young receivers in the NFL, period\"",
+      "player": "Jalen Coker",
+      "sent": 1,
+      "ts": "0:41\u20130:43",
+      "stats": [
+       "WR13"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Career-high targets; Matt: Godwin comp",
+      "take": "",
+      "detail": "",
+      "player": "Jalen Coker",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Locked-in starter"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 12,
+    "score": 0.6
+   },
+   {
+    "pid": "10859",
+    "name": "Sam LaPorta",
+    "pos": "TE",
+    "team": "DET",
+    "slot": "TE",
+    "group": "Starter",
+    "inj": null,
+    "age": 25,
+    "takes": [
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Only came up in the \"best real-life WR",
+      "take": "",
+      "detail": "",
+      "player": "Sam LaPorta",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: BN",
+       "Wk6 (MAIN): 0",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "TE duo\" bit",
+      "take": "",
+      "detail": "",
+      "player": "Sam LaPorta",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: BN",
+       "Wk6 (MAIN): 0",
+       "Guru read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   },
+   {
+    "pid": "8408",
+    "name": "Jordan Mason",
+    "pos": "RB",
+    "team": "MIN",
+    "slot": "FLEX",
+    "group": "Starter",
+    "inj": "IR",
+    "age": 27,
+    "takes": [
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Hold / activate",
+      "detail": "\"designated to return from IR\"; Jamey's shallow-league RB headliner: \"led the team in carries in\u2026 the one game that both guys were healthy\" (Wk1: \"Mason had 14 carries and Jones had 12\")",
+      "player": "Jordan Mason",
+      "sent": 0,
+      "ts": "18:18, 41:16",
+      "stats": [
+       "Sleeper check: Wk1 Mason 15-59, Jones 12-40-1 \u2714 (close). Sleeper: IR (thumb)",
+       "14 carries"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Hold / activate",
+      "detail": "\"designated to return from IR\"; Jamey's shallow-league RB headliner: \"led the team in carries in\u2026 the one game that both guys were healthy\" (Wk1: \"Mason had 14 carries and Jones had 12\")",
+      "player": "Jordan Mason",
+      "sent": 0,
+      "ts": "18:18, 41:16",
+      "stats": [
+       "Sleeper check: Wk1 Mason 15-59, Jones 12-40-1 \u2714 (close). Sleeper: IR (thumb)",
+       "14 carries"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   },
+   {
+    "pid": "9757",
+    "name": "Kendre Miller",
+    "pos": "RB",
+    "team": "NO",
+    "slot": "FLEX",
+    "group": "Starter",
+    "inj": null,
+    "age": 24,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Josh Norris",
+      "take": "Stash / Flex (#3 in the top 5)",
+      "detail": "20 carries, 70 yards; led NO RBs in snaps. Joel: \"three-man split\" with Kamara and CJ Donaldson; 8 of the last 9 red-zone touches; PIT this week, bye Week 8, then five great matchups; \"not going to spend any FAAB.\" Josh: Travis Etienne's return could make it a four-man room; \"nothing really about the Saints running game gets me jazzed\"",
+      "player": "Kendre Miller",
+      "sent": 1,
+      "ts": "~14:00",
+      "stats": [
+       "Sleeper check: \u2705 20-70 (+2-0 rec), 32/72 snaps, most among NO RBs. \u2705 2 TDs before W6 (W1, W5). \u2705 PIT @ NO in W7, NO bye W8. Kamara 19 snaps, Donaldson 24",
+       "20 carries",
+       "70 yards"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Joel Smyth",
+      "take": "Stash / Flex (#3 in the top 5)",
+      "detail": "20 carries, 70 yards; led NO RBs in snaps. Joel: \"three-man split\" with Kamara and CJ Donaldson; 8 of the last 9 red-zone touches; PIT this week, bye Week 8, then five great matchups; \"not going to spend any FAAB.\" Josh: Travis Etienne's return could make it a four-man room; \"nothing really about the Saints running game gets me jazzed\"",
+      "player": "Kendre Miller",
+      "sent": 1,
+      "ts": "~14:00",
+      "stats": [
+       "Sleeper check: \u2705 20-70 (+2-0 rec), 32/72 snaps, most among NO RBs. \u2705 2 TDs before W6 (W1, W5). \u2705 PIT @ NO in W7, NO bye W8. Kamara 19 snaps, Donaldson 24",
+       "20 carries",
+       "70 yards"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "20 carries",
+      "take": "",
+      "detail": "",
+      "player": "Kendre Miller",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Your Week 7 flex (Waiver Intel already has him there). Don't drop him: the post-bye schedule is good"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "8 of the last 9 red-zone touches; #3 in Joel's top 5; PIT this week",
+      "take": "",
+      "detail": "",
+      "player": "Kendre Miller",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Your Week 7 flex (Waiver Intel already has him there). Don't drop him: the post-bye schedule is good"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "then a bye",
+      "take": "",
+      "detail": "",
+      "player": "Kendre Miller",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Your Week 7 flex (Waiver Intel already has him there). Don't drop him: the post-bye schedule is good"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Desperation Wk7 flex (your MAIN starter)",
+      "detail": "Adam: PIT is \"a much tougher matchup than the Giants\" (Judkins 17-53-1; \"Jonathan Taylor had a bad game. Bucky Irving had a terrible game\"). Jamey: \"the trap back\u2026 not going to be involved in the passing game\u2026 20 carries, 70 yards, two catches, no yards\u2026 his best games\u2026 nine PPR points.\" Dave: \"a dude with 15 touches can't be ignored,\" his #2 if White is gone",
+      "player": "Kendre Miller",
+      "sent": 0,
+      "ts": "20:56\u201322:30, 24:24",
+      "stats": [
+       "Sleeper check: Wk6 20-70, 2 rec for 0 \u2714. Best games 9.0 three times (Wks 1, 5, 6) \u2714. vs PIT: Taylor 15-45, Irving 19-46 \u2714",
+       "20 carries",
+       "70 yards"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     }
+    ],
+    "mentions": 16,
+    "score": 0.23
+   },
+   {
+    "pid": "3451",
+    "name": "Ka'imi Fairbairn",
+    "pos": "K",
+    "team": "HOU",
+    "slot": "K",
+    "group": "Starter",
+    "inj": null,
+    "age": 32,
+    "takes": [
+     {
+      "ep": "fft:7mYlfxCscaY",
+      "show": "fft",
+      "date": "2026-10-18",
+      "host": "Adam Aizer",
+      "take": "\"I'm assuming Fairburn made this kick. He made it. I think every Europe game ended with a game-winning field goal.\"",
+      "detail": "\"I'm assuming Fairburn made this kick. He made it. I think every Europe game ended with a game-winning field goal.\"",
+      "player": "Ka'imi Fairbairn",
+      "sent": 0,
+      "ts": "17:53",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=7mYlfxCscaY"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   },
+   {
+    "pid": "LAR",
+    "name": "Los Angeles Rams",
+    "pos": "DEF",
+    "team": "LAR",
+    "slot": "DEF",
+    "group": "Starter",
+    "inj": null,
+    "age": null,
+    "takes": [],
+    "mentions": 0,
+    "score": null
+   },
+   {
+    "pid": "11637",
+    "name": "Keon Coleman",
+    "pos": "WR",
+    "team": "BUF",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Josh Norris",
+      "take": "Hold; goes to the top of the list if Moore is ruled out",
+      "detail": "In the 4 games where he played 70%+ of snaps and DJ Moore was under 40%: WR30, WR9, WR39 (vs LAR), WR15 (W6). Josh: the No. 1 WR or TE in EPA per target. Josh would've ranked him top-26 if Moore had been ruled out early. Joel: ~15 points per game in those games",
+      "player": "Keon Coleman",
+      "sent": 0,
+      "ts": "24:17",
+      "stats": [
+       "Sleeper check: \u26a0\ufe0f Sleeper PPR ranks: W2 WR26, W4 WR9, W5 WR45, W6 WR19 (15.9; 58/68 snaps). Average in those four is about 14.9 PPG. \u2705 Moore Out. BUF is on bye in W7",
+       "WR30",
+       "WR9",
+       "WR39",
+       "WR15",
+       "top-26",
+       "15 points"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Joel Smyth",
+      "take": "Hold; goes to the top of the list if Moore is ruled out",
+      "detail": "In the 4 games where he played 70%+ of snaps and DJ Moore was under 40%: WR30, WR9, WR39 (vs LAR), WR15 (W6). Josh: the No. 1 WR or TE in EPA per target. Josh would've ranked him top-26 if Moore had been ruled out early. Joel: ~15 points per game in those games",
+      "player": "Keon Coleman",
+      "sent": 0,
+      "ts": "24:17",
+      "stats": [
+       "Sleeper check: \u26a0\ufe0f Sleeper PPR ranks: W2 WR26, W4 WR9, W5 WR45, W6 WR19 (15.9; 58/68 snaps). Average in those four is about 14.9 PPG. \u2705 Moore Out. BUF is on bye in W7",
+       "WR30",
+       "WR9",
+       "WR39",
+       "WR15",
+       "top-26",
+       "15 points"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Top of the list whenever DJ Moore sits; No. 1 WR",
+      "take": "",
+      "detail": "",
+      "player": "Keon Coleman",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold. BUF is on bye in Week 7. Moore is Out in Sleeper, so he's a WR2/3 in Week 8"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "TE in EPA per target",
+      "take": "",
+      "detail": "",
+      "player": "Keon Coleman",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Hold. BUF is on bye in Week 7. Moore is Out in Sleeper, so he's a WR2/3 in Week 8"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Avoid",
+      "detail": "Alfredo: \"not super interested,\" a Denzel Boston/Quentin Johnston boom-bust type. Tucker > Coleman (both hosts, low certainty). *Age 23. FC 1328. Rostered: durk18. You have him in MAIN.*",
+      "player": "Keon Coleman",
+      "sent": -1,
+      "ts": "40:57",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Avoid",
+      "detail": "Alfredo: \"not super interested,\" a Denzel Boston/Quentin Johnston boom-bust type. Tucker > Coleman (both hosts, low certainty). *Age 23. FC 1328. Rostered: durk18. You have him in MAIN.*",
+      "player": "Keon Coleman",
+      "sent": -1,
+      "ts": "40:57",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     }
+    ],
+    "mentions": 12,
+    "score": 0.0
+   },
+   {
+    "pid": "12507",
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "team": "LAC",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 23,
+    "takes": [
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Hosts",
+      "take": "Hold (barely)",
+      "detail": "Drop-O-Meter 3 and 2. Adam keeps him over Kendre Miller and Tracy for ROS, but takes White over him. \"The sabotage drop\"",
+      "player": "Omarion Hampton",
+      "sent": 0,
+      "ts": "52:23\u201353:24",
+      "stats": [
+       "Sleeper check: Wk3\u20136: 5.6, 13.3, 4.9, 7.9; LAC on bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "(unattributed)",
+      "take": "",
+      "detail": "\"I don't really see [them featuring him again]\"; \"the sabotage drop\"",
+      "player": "Omarion Hampton",
+      "sent": -1,
+      "ts": "",
+      "stats": [
+       "Ratings: 3, 2",
+       "Sleeper: 5.6, 13.3, 4.9, 7.9; LAC bye"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "LAC RBs combined for 43 yds; \"your team is banged\"",
+      "take": "",
+      "detail": "",
+      "player": "Omarion Hampton",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Bench / sell (bye Wk7 anyway)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Chat",
+      "take": "Drop / Sell",
+      "detail": "On \"all-bust\" team with Herbert. Adam: congratulate anyone who drops him; 3-way split; no optimism after bye even if Gase runs him more",
+      "player": "Omarion Hampton",
+      "sent": -1,
+      "ts": "05:33\u201306:14; 1:04:57\u20131:07:40",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Adam Aizer",
+      "take": "Drop / Sell",
+      "detail": "On \"all-bust\" team with Herbert. Adam: congratulate anyone who drops him; 3-way split; no optimism after bye even if Gase runs him more",
+      "player": "Omarion Hampton",
+      "sent": -1,
+      "ts": "05:33\u201306:14; 1:04:57\u20131:07:40",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "panel",
+      "take": "Drop / Sell",
+      "detail": "On \"all-bust\" team with Herbert. Adam: congratulate anyone who drops him; 3-way split; no optimism after bye even if Gase runs him more",
+      "player": "Omarion Hampton",
+      "sent": -1,
+      "ts": "05:33\u201306:14; 1:04:57\u20131:07:40",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     }
+    ],
+    "mentions": 9,
+    "score": -0.15
+   },
+   {
+    "pid": "2133",
+    "name": "Davante Adams",
+    "pos": "WR",
+    "team": "LAR",
+    "slot": "IR",
+    "group": "IR",
+    "inj": "IR",
+    "age": 33,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Heath Cummings",
+      "take": "Info",
+      "detail": "\"Probably out for the year, but at least six weeks\" (hamstring); later \"six to 10 weeks.\" \u26a0\ufe0f *Sleeper lists him Out with a knee injury, not a hamstring.* *Age 33. FC 2146. Rostered: musicm45. On your MAIN IR.*",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "1:18",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Out",
+      "detail": "\"out six to 10 weeks according to reports\"; \"may be back\" for the fantasy playoffs",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "3:26, 33:24, 42:25",
+      "stats": [
+       "Sleeper check: Yours in MAIN (IR)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Out",
+      "detail": "\"out six to 10 weeks according to reports\"; \"may be back\" for the fantasy playoffs",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "3:26, 33:24, 42:25",
+      "stats": [
+       "Sleeper check: Yours in MAIN (IR)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Out",
+      "detail": "\"out six to 10 weeks with a hamstring injury\"",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "00:07, 19:18",
+      "stats": [
+       "Sleeper check: Sleeper: Out, knee (\"ruptured\") \u2014 on your MAIN IR. Hosts say hamstring; Sleeper lists knee"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "Out \"six to 10 weeks",
+      "take": "",
+      "detail": "",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Sleeper lists him Out (Knee). Either way, the IR shuffle in the waiver intel stands"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "\" \"a ruptured hamstring\"",
+      "take": "",
+      "detail": "",
+      "player": "Davante Adams",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): Sleeper lists him Out (Knee). Either way, the IR shuffle in the waiver intel stands"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     }
+    ],
+    "mentions": 15,
+    "score": -0.06
+   },
+   {
+    "pid": "2449",
+    "name": "Stefon Diggs",
+    "pos": "WR",
+    "team": "WAS",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 32,
+    "takes": [
+     {
+      "ep": "fftdynasty:v2wSpxRuK1k",
+      "show": "fftdynasty",
+      "date": "2026-10-20",
+      "host": "Alfredo Brown",
+      "take": "Hold/start after bye",
+      "detail": "\"Going to be the number one there for as long as he can stay healthy\"; \"potentially becomes a league winner.\" *Wk6: 7 targets, 6-44-1, 16.4. Age 32. FC 1337. Yours (bench) and in MAIN; WAS bye Wk7.*",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "30:25",
+      "stats": [
+       "7 targets",
+       "-1"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=v2wSpxRuK1k"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Dave Richard",
+      "take": "Hold",
+      "detail": "McLaurin's absence will \"open the door for Stefon Diggs to be great\"; \"83% rostered\u2026 you need to have Stefon Diggs\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "3:26, 14:10",
+      "stats": [
+       "Sleeper check: Yours in both leagues (bench, WAS bye Wk7)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Hold",
+      "detail": "McLaurin's absence will \"open the door for Stefon Diggs to be great\"; \"83% rostered\u2026 you need to have Stefon Diggs\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "3:26, 14:10",
+      "stats": [
+       "Sleeper check: Yours in both leagues (bench, WAS bye Wk7)"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Jamey Eisenberg",
+      "take": "Hold (Wk7 bye)",
+      "detail": "Close to Bernard; \"been very good in three of the five healthy games\"; Diggs is WAS's best WR going forward: \"Yes\u2026 He was better than McLaurin\u2026 gets hyper-targeted when he's on the field\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "42:16, 49:21",
+      "stats": [
+       "Sleeper check: 16.2, 22.2, 7.8, 8.8, 16.9 (MAIN) / 15.5, 21.7, 7.3, 8.5, 16.4 PPR \u2192 3 of 5 \u2714. WAS bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "fft:xDb5LZhuC88",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Hold (Wk7 bye)",
+      "detail": "Close to Bernard; \"been very good in three of the five healthy games\"; Diggs is WAS's best WR going forward: \"Yes\u2026 He was better than McLaurin\u2026 gets hyper-targeted when he's on the field\"",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "42:16, 49:21",
+      "stats": [
+       "Sleeper check: 16.2, 22.2, 7.8, 8.8, 16.9 (MAIN) / 15.5, 21.7, 7.3, 8.5, 16.4 PPR \u2192 3 of 5 \u2714. WAS bye Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=xDb5LZhuC88"
+     },
+     {
+      "ep": "bdge:uMWpPOnuudg",
+      "show": "bdge",
+      "date": "2026-10-20",
+      "host": "Named as part of the WAS target mix with McLaurin hurt",
+      "take": "",
+      "detail": "",
+      "player": "Stefon Diggs",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Guru read (mine): WAS is on bye in Wk 7, but McLaurin's injury helps him after that"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=uMWpPOnuudg"
+     }
+    ],
+    "mentions": 8,
+    "score": 0.0
+   },
+   {
+    "pid": "4984",
+    "name": "Josh Allen",
+    "pos": "QB",
+    "team": "BUF",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 30,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "(unattributed)",
+      "take": "",
+      "detail": "",
+      "player": "Josh Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Bye Week 7, so Mahomes starts"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Josh Norris",
+      "take": "S",
+      "detail": "Underhand shovel TD to Keon. Matt: \"when he's hot he's unbelievable\"",
+      "player": "Josh Allen",
+      "sent": 1,
+      "ts": "0:50\u20130:52",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Matt Harmon",
+      "take": "S",
+      "detail": "Underhand shovel TD to Keon. Matt: \"when he's hot he's unbelievable\"",
+      "player": "Josh Allen",
+      "sent": 1,
+      "ts": "0:50\u20130:52",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Shovel TD to Keon; \"when he's hot he's unbelievable\"",
+      "take": "",
+      "detail": "",
+      "player": "Josh Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Bye Wk7 \u2192 Mahomes"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     },
+     {
+      "ep": "fft:PXhKKHAVMqc",
+      "show": "fft",
+      "date": "2026-10-19",
+      "host": "Not discussed by name. BUF heads into its bye",
+      "take": "",
+      "detail": "",
+      "player": "Josh Allen",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Slot: QB",
+       "Wk6 (MAIN): 25.85",
+       "Guru read: Mahomes covers Wk7"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc"
+     },
+     {
+      "ep": "bdge:G_UkjfKfqgY",
+      "show": "bdge",
+      "date": "2026-10-19",
+      "host": "255",
+      "take": "S",
+      "detail": "",
+      "player": "Josh Allen",
+      "sent": 1,
+      "ts": "40:13",
+      "stats": [
+       "255, 2 TDs; \"this team needs DJ Moore back\""
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=G_UkjfKfqgY"
+     }
+    ],
+    "mentions": 6,
+    "score": 0.44
+   },
+   {
+    "pid": "5012",
+    "name": "Mark Andrews",
+    "pos": "TE",
+    "team": "BAL",
+    "slot": "BN",
+    "group": "Bench",
+    "inj": null,
+    "age": 31,
+    "takes": [
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "\"His game has fallen off a cliff",
+      "take": "",
+      "detail": "",
+      "player": "Mark Andrews",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Sleeper W6: 1/3-4 (1.4). Your starting TE slot is weak. LaPorta is the TE1; Andrews is cuttable if you need the roster spot for Cooper"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "\"",
+      "take": "",
+      "detail": "",
+      "player": "Mark Andrews",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Sleeper W6: 1/3-4 (1.4). Your starting TE slot is weak. LaPorta is the TE1; Andrews is cuttable if you need the roster spot for Cooper"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "yahoojosh:qOG7KeePkSk",
+      "show": "yahoojosh",
+      "date": "2026-10-20",
+      "host": "Lane is taking the red-zone role",
+      "take": "",
+      "detail": "",
+      "player": "Mark Andrews",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: Sleeper W6: 1/3-4 (1.4). Your starting TE slot is weak. LaPorta is the TE1; Andrews is cuttable if you need the roster spot for Cooper"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=qOG7KeePkSk \u00b7 Runtime: 34:49 \u00b7 Sponsors: Farmers Insurance (Josh's \"game plan\" segment), DraftKings (promo code read)"
+     },
+     {
+      "ep": "fft:SfoaRkbmsZk",
+      "show": "fft",
+      "date": "2026-10-20",
+      "host": "Adam Aizer",
+      "take": "Info",
+      "detail": "23.4% out wide",
+      "player": "Mark Andrews",
+      "sent": 0,
+      "ts": "35:11",
+      "stats": [
+       "Sleeper check: Your MAIN TE"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk"
+     },
+     {
+      "ep": "btbs:C7zg74XkPU8",
+      "show": "btbs",
+      "date": "2026-10-20",
+      "host": "Theo Gremminger",
+      "take": "Fade",
+      "detail": "",
+      "player": "Mark Andrews",
+      "sent": -1,
+      "ts": "28:52",
+      "stats": [
+       "\"Looks completely cooked\"; \u26a0 \"Josh Quavvis\" = Josh Cuevas out-targeted and outproduced him",
+       "My check: \u2705 Cuevas 5 targets, 4-44-1 vs Andrews 3 targets, 1-4"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=C7zg74XkPU8"
+     },
+     {
+      "ep": "yahoojosh:lJQPIjlEJus",
+      "show": "yahoojosh",
+      "date": "2026-10-19",
+      "host": "Not discussed. The BAL passing game under Huntley \"we know what they are\"",
+      "take": "",
+      "detail": "",
+      "player": "Mark Andrews",
+      "sent": 0,
+      "ts": "",
+      "stats": [
+       "Read: \u2014"
+      ],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=lJQPIjlEJus \u00b7 Runtime: 1:45:19 \u00b7 Sponsors: Farmers Insurance, DraftKings (promo segment ~0:26, ~0:50)"
+     }
+    ],
+    "mentions": 6,
+    "score": -0.12
+   },
+   {
+    "pid": "5892",
+    "name": "David Montgomery",
+    "pos": "RB",
+    "team": "HOU",
+    "slot": "IR",
+    "group": "IR",
+    "inj": "Out",
+    "age": 29,
+    "takes": [
+     {
+      "ep": "salvetri:oOhxfhrXvz8",
+      "show": "salvetri",
+      "date": "2026-10-19",
+      "host": "Sal Vetri",
+      "take": "Injury watch",
+      "detail": "\"Hurt as well for whatever that's worth\"; HOU OL doesn't run-block well \u2192 pass-first",
+      "player": "David Montgomery",
+      "sent": 0,
+      "ts": "10:24",
+      "stats": [],
+      "rank": "",
+      "conf": "",
+      "url": "https://www.youtube.com/watch?v=oOhxfhrXvz8"
+     }
+    ],
+    "mentions": 1,
+    "score": 0.0
+   }
+  ],
+  "fetched": "2026-10-20T21:15",
+  "show_notes": [
+   {
+    "ep": "fft:SfoaRkbmsZk",
+    "show": "fft",
+    "date": "2026-10-20",
+    "title": "Who to Add for Week 7? Waiver Wire Targets, Streamers & Must-Have Pickups | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=SfoaRkbmsZk",
+    "text": "**MAIN LEAGUE: Taylor Snift (Poncho).** Week 7 opponent is Freddy."
+   },
+   {
+    "ep": "fft:xDb5LZhuC88",
+    "show": "fft",
+    "date": "2026-10-20",
+    "title": "Week 7 Waiver Wire: MUST ADD Players, Injury Replacements & Streamers | 2026 Fantasy Football Advice",
+    "url": "https://www.youtube.com/watch?v=xDb5LZhuC88",
+    "text": "**MAIN LEAGUE: Taylor Snift (Poncho, 2-4).** Week 7 is the Freddy matchup."
+   },
+   {
+    "ep": "btbs:C7zg74XkPU8",
+    "show": "btbs",
+    "date": "2026-10-20",
+    "title": "Rest of season BOLD PREDICTIONS I Week 6 Hot Takes",
+    "url": "https://www.youtube.com/watch?v=C7zg74XkPU8",
+    "text": "**MAIN LEAGUE: Taylor Snift (Myles High Club, redraft, 2-4; PPR + 0.25 per rush/rec first down). Week 7 opponent: Freddy.**\n- **Xavier Worthy (your W/R/T):** he was the episode's lead take, and it's the best news of the show for you. With Rice out for Week 7 **[my check]**, keep starting him at SEA. First downs in your scoring reward his short motion/YAC role.\n- **Week 7 byes and holes:** Josh Allen, Keon Coleman (BUF), Omarion Hampton (LAC) and Stefon Diggs (WAS) are on bye, and Davante Adams is out (hamstring, 6-10 weeks). **Patrick Mahomes** is your QB this week, and Jacob's whole Worthy case is built on Walker making Mahomes' dropbacks easier. Jacob also ranked Coleman below Worthy (\"on the periphery of fantasy relevance\").\n- **Mark Andrews (your starting TE):** Theo says he \"looks completely cooked.\" Week 6 was 1-4 on 3 targets while Cuevas went 4-44-1 **[my check]**. **Sam LaPorta** is on your bench (vs GB, Sleeper proj 14.3 vs Andrews' 12.2). My read is LaPorta over Andrews in Week 7.\n- **Jalen Coker (W/R/T):** Theo says Coker and McMillan will keep a 60%-plus combined target share (62.9% in Week 6 **[my check]**), and Bryce is a top-10 QB in his view. Keep starting Coker vs TB.\n- **Free agents here the hosts liked:** J.J. McCarthy (QB), Ja'Kobi Lane (WR BAL), Tyrone Tracy Jr. (RB NYG), Chris Rodriguez (RB JAX, a Tuten handcuff only), Rico Dowdle (RB PIT). Lane is the cheapest flex dart for the bye-week crunch.\n- **Freddy's Week 7 lineup (Flowers for Ms. Jackson):** **Zay Flowers** got the biggest hype of the show (Jacob top-5 ROS), but Lamar is still day-to-day **[my check]**, and Flowers' 13.4 and 15.6 points in the last two weeks came with Huntley. Freddy's **DK Metcalf** (15 targets) and bench **Aaron Rodgers** benefit from the Pittsburgh \"PPR scam,\" and **Travis Kelce** is fighting for scraps behind Worthy. **Jakobi Meyers** (Jacob's sleeper) is on bye. **Lamar** is on his IR."
+   },
+   {
+    "ep": "bdge:uMWpPOnuudg",
+    "show": "bdge",
+    "date": "2026-10-20",
+    "title": "A Week to Take Advantage of Your Idiot Leaguemates on Waivers",
+    "url": "https://www.youtube.com/watch?v=uMWpPOnuudg",
+    "text": "**MAIN LEAGUE: Taylor Snift (Poncho)**"
+   },
+   {
+    "ep": "fft:PXhKKHAVMqc",
+    "show": "fft",
+    "date": "2026-10-19",
+    "title": "Week 6 Winners & Losers: Biggest Takeaways From Every Game! | 2026 Fantasy Football Advice",
+    "url": "https://www.youtube.com/watch?v=PXhKKHAVMqc",
+    "text": "Scoring reminder: **MAIN** = full PPR + 6-pt pass TD + 0.25/carry + 0.25/first down + yardage bonuses (that's why MAIN points \u2260 the plain PPR numbers in Guru's context). **DYNASTY** = full PPR, 4-pt pass TD."
+   },
+   {
+    "ep": "btbs:6PwsOSVVT2U",
+    "show": "btbs",
+    "date": "2026-10-19",
+    "title": "Week 6 Recap: McCarthy vs Winston, Coker vs McMillan, Jacobs Returns, & More! | Beyond the Box Score",
+    "url": "https://www.youtube.com/watch?v=6PwsOSVVT2U",
+    "text": "**MAIN LEAGUE: Taylor Snift (Myles High Club, redraft, 2-3; PPR + 0.25 per rush/rec first down)**\n- \ud83d\udea8 **Davante Adams (your starting WR) is out 6-10 weeks** with a ruptured hamstring. **[my check]** Sean McVay announced it Monday (NFL.com, ESPN, AP). The show had \"no update\" on air. You need a WR replacement now; your IR spots already hold Montgomery and Mason.\n- **Free agents in this league the hosts liked:** Jaylin Noel (HOU), Jahan Dotson (ATL), Ryan Flournoy (DAL), Tyrone Tracy Jr. (NYG), DeMario Douglas (NE). Kyle Pitts is also a free agent here, but he was only referenced indirectly (\u2248 \"Kyle Smith\"), not discussed. Stefon Diggs (bench, questionable) plays on MNF tonight, which will tell you whether he can fill the Adams spot.\n- **Jalen Coker (your flex):** the most bullish segment of the show for you. He's WR5 per game in healthy games, Jacob ranked him over McMillan, and 31 targets in those 3 games with 5 red-zone looks. **[my check]** Week 6 line: 6-97 on 13 targets (team-leading), 59 of 79 snaps (Panthers.com, Pro-Football-Reference); next is vs TB. Keep starting him. First downs in your scoring reward his volume.\n- **David Montgomery (IR):** Adam's Woody Marks love depends on Montgomery staying out. Marks is rostered by Killa Walleye here, so you can't grab the handcuff.\n- **Omarion Hampton:** the panel called the Chargers' O-line \"horrible,\" the standard for a bad line. That's a mild drag on his efficiency.\n- **Jordan Mason (IR, MIN):** Dan is \"pretty much in\" on the Vikings offense ROS, a quiet plus when he returns.\n- **Mark Andrews / Sam LaPorta:** no direct mention. Kraft (the hosts' TE buy) is rostered by Amon Raw, Next Question.\n- **Rams DEF:** **[my check]** the Rams also lost DT Poona Ford (season) and DT Kobie Turner (4-6 weeks), which weakens your DST."
+   },
+   {
+    "ep": "fft:eJjRk4GDcVg",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "LAST-MINUTE Week 6 Fantasy Football Start 'Em, Sit 'Em Advice! Actives/Inactives & Q&A (FFT Express)",
+    "url": "https://www.youtube.com/watch?v=eJjRk4GDcVg",
+    "text": "**MAIN LEAGUE (Myles High Club):**\n- **Omarion Hampton (RB starter):** right at Heath's RB2 cutoff, one spot behind Kamara and Pierce. He was picked in a pick-two.\n- **Jalen Coker (W/R/T):** passed over in a deep pick-two (London, McMillan and Pickens were taken).\n- **Stefon Diggs (bench):** as above.\n\n---"
+   },
+   {
+    "ep": "fft:7mYlfxCscaY",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "FINAL Week 6 Start/Sit Cheat Sheet PART 2! LIVE Q&A + Actives/Inactives News | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=7mYlfxCscaY",
+    "text": "**MAIN LEAGUE (Myles High Club):**\n- **Omarion Hampton (RB):** **Jamey took Jaleel McLaughlin over Hampton** and Adam went along. That's a bearish signal on Hampton this week. *(Guru: LAC's implied total was only 17 at KC.)*\n- **Davante Adams (WR):** **start**; both hosts sat Garrett Wilson rather than Adams or Pickens.\n- **Keon Coleman (WR):** Adam: \"I don't think he's that bad of a play\u2026 okay as a number three receiver.\" Jamey ranks him \u2248WR33. *(DJ Moore inactive.)*\n- **Jalen Coker (W/R/T):** Coker over Stevenson in full PPR (both). A.J. Brown + Coker (J). **Pickens > Coker.**\n- **Xavier Worthy (W/R/T):** DeVonta Smith > Worthy (\"confidently\"); Downs > Worthy; McLaurin > Worthy (\"close\").\n- **Ka'imi Fairbairn (K):** Adam called his London game-winning field goal live. *(Final: HOU 34-31.)*\n- **Kendre Miller (bench):** Jamey's favorite Saints RB, over Diggs. Lost to Kalif Raymond (PPR) and Skattebo.\n- **Stefon Diggs (bench):** as above.\n\n---"
+   },
+   {
+    "ep": "fft:tjd4BB1W_TU",
+    "show": "fft",
+    "date": "2026-10-18",
+    "title": "FINAL Week 6 Start/Sit Cheat Sheet PART 1! LIVE Q&A + Actives/Inactives News | 2026 Fantasy Football",
+    "url": "https://www.youtube.com/watch?v=tjd4BB1W_TU",
+    "text": "**MAIN LEAGUE (Myles High Club):**\n- **Omarion Hampton (RB):** a borderline RB2. Below Pierce and Pollard; above White; \u2248 Kamara. \"Ran two routes last week.\" **Both hosts would trade Hampton for Luther Burden.**\n- **Keon Coleman (WR):** the main Adam-vs-Heath debate. Heath has him as a low-end WR3 (low-to-high 30s) and a drop candidate because **BUF has a bye next week**; Adam makes the case for him. *(DJ Moore was inactive.)*\n- **Jalen Coker (W/R/T):** in Heath's PPR pick-twos (Coker + A.J. Brown; Zay + Coker). Lost to Jeanty and Pickens.\n- **Xavier Worthy (W/R/T):** \"could be a decent start\" with Rice out (Adam). Over Ladd and Keenan (Heath); under Burden and Tate.\n- **Josh Allen (QB):** Adam noted Allen \"threw 19 passes\" in Week 5. Heath expects a big James Cook run game vs LV, which is slightly bearish for Allen's passing volume.\n- **Patrick Mahomes (bench QB):** Maye > Mahomes; a coin flip vs Lawrence.\n- **Kendre Miller (bench):** \"all he did last week was score a touchdown. It was 10 carries for 30 yards.\" Behind Kamara. Heath said to drop Strange rather than Miller.\n- **Makai Lemon (bench):** \"we're not going to go with Lemon\" (55:06).\n- **Sam LaPorta (bench):** only mentioned as on Heath's bench (bye).\n- **Stefon Diggs (bench):** as above.\n- **Rams DST:** Adam notes \"the Rams are so good against tight ends.\" *(Guru: LAR \u221212.5, ARI implied total 19.5, a strong DST spot.)*\n\n---"
+   }
+  ]
+ }
+]
