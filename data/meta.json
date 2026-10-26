@@ -1,0 +1,49 @@
+{
+ "built": "2026-10-25 23:58",
+ "tz": "ET",
+ "shows": [
+  {
+   "id": "fft",
+   "name": "Fantasy Football Today",
+   "dir": "fft",
+   "color": "#1f8fff"
+  },
+  {
+   "id": "salvetri",
+   "name": "Sal Vetri",
+   "dir": "salvetri",
+   "color": "#ff8a00"
+  },
+  {
+   "id": "btbs",
+   "name": "Beyond the Box Score",
+   "dir": "btbs",
+   "color": "#22c55e"
+  },
+  {
+   "id": "fftdynasty",
+   "name": "FFT Dynasty",
+   "dir": "fftdynasty",
+   "color": "#a855f7"
+  },
+  {
+   "id": "bdge",
+   "name": "BDGE",
+   "dir": "bdge",
+   "color": "#ef4444"
+  },
+  {
+   "id": "yahoojosh",
+   "name": "Yahoo: Josh & Hayden",
+   "dir": "yahoojosh",
+   "color": "#7c3aed"
+  }
+ ],
+ "counts": {
+  "episodes": 39,
+  "players": 592,
+  "hosts": 1032,
+  "predictions": 1305,
+  "takes": 4210
+ }
+}
