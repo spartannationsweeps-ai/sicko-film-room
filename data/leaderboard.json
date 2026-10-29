@@ -1,0 +1,232 @@
+[
+ {
+  "host": "BDGE Rankings Host",
+  "show": "BDGE",
+  "hits": 13.0,
+  "misses": 3.0,
+  "push": 0.0,
+  "pending": 14.0,
+  "pct": 81.2,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Josh Norris",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 6.0,
+  "misses": 2.0,
+  "push": 0.0,
+  "pending": 21.0,
+  "pct": 75.0,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Hayden Winks",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 10.0,
+  "misses": 6.0,
+  "push": 0.0,
+  "pending": 36.0,
+  "pct": 62.5,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Adam Aizer",
+  "show": "BTBS, FFT",
+  "hits": 13.0,
+  "misses": 8.0,
+  "push": 0.0,
+  "pending": 43.0,
+  "pct": 61.9,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Jamey Eisenberg",
+  "show": "FFT",
+  "hits": 23.0,
+  "misses": 17.0,
+  "push": 0.0,
+  "pending": 60.0,
+  "pct": 57.5,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Dan Schneier",
+  "show": "BTBS, FFT",
+  "hits": 4.0,
+  "misses": 3.0,
+  "push": 0.0,
+  "pending": 26.0,
+  "pct": 57.1,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Jacob Gibbs",
+  "show": "BTBS, FFT",
+  "hits": 5.0,
+  "misses": 4.0,
+  "push": 0.0,
+  "pending": 61.0,
+  "pct": 55.6,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Heath Cummings",
+  "show": "FFT, FFT Dynasty",
+  "hits": 14.0,
+  "misses": 13.0,
+  "push": 0.0,
+  "pending": 51.0,
+  "pct": 51.9,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Dave Richard",
+  "show": "FFT",
+  "hits": 7.0,
+  "misses": 12.0,
+  "push": 0.0,
+  "pending": 27.0,
+  "pct": 36.8,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Michael O'Hara",
+  "show": "BDGE",
+  "hits": 1.0,
+  "misses": 2.0,
+  "push": 0.0,
+  "pending": 15.0,
+  "pct": 33.3,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Sal Vetri",
+  "show": "Sal Vetri",
+  "hits": 11.0,
+  "misses": 25.0,
+  "push": 1.0,
+  "pending": 90.0,
+  "pct": 31.1,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Two hosts",
+  "show": "FFT",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 1.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Both",
+  "show": "BTBS",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 2.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Nick Ercolano",
+  "show": "BDGE",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 24.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Joel Smyth",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 3.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "A host",
+  "show": "FFT",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 1.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "one host",
+  "show": "FFT",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 1.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "---",
+  "show": "BDGE, BTBS, FFT, FFT Dynasty, Sal Vetri, Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 56.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Alfredo Brown",
+  "show": "FFT Dynasty",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 15.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Theo Gremminger",
+  "show": "BTBS",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 10.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Justin Boone",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 2.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "Matt Harmon",
+  "show": "Yahoo Josh & Hayden",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 16.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ },
+ {
+  "host": "SS1-7: Week 7 Start/Sit Part 1 Thu livestream . TNF rows graded 2026-10-24 from Sleeper Wk7",
+  "show": "FFT",
+  "hits": 0.0,
+  "misses": 0.0,
+  "push": 0.0,
+  "pending": 2.0,
+  "pct": null,
+  "source": "host_leaderboard.md"
+ }
+]

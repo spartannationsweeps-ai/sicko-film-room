@@ -1,0 +1,2957 @@
+{
+ "window": [
+  "2026-10-20",
+  "2026-10-28"
+ ],
+ "consensus_start": [
+  {
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "team": "WAS",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 6,
+   "score": 1.0
+  },
+  {
+   "player": "Josh Jacobs",
+   "pos": "RB",
+   "team": "GB",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 6,
+   "score": 1.0
+  },
+  {
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "team": "MIA",
+   "voices": {
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 Since Week 3: 71% snap rate": 1.0,
+    "Beyond the Box Score \u00b7 51% route participation": 1.0,
+    "Beyond the Box Score \u00b7 15.8 FP": 1.0,
+    "Beyond the Box Score \u00b7 g": 1.0,
+    "Beyond the Box Score \u00b7 14.4 expected FP": 1.0,
+    "Beyond the Box Score \u00b7 g. RB4 explosive run rate": 1.0,
+    "Beyond the Box Score \u00b7 RB6 rush yards over expectation per attempt": 1.0,
+    "Beyond the Box Score \u00b7 RB4 yards after contact per rush (only Kenneth Walker": 1.0,
+    "Beyond the Box Score \u00b7 Kyle Monangai": 1.0,
+    "Beyond the Box Score \u00b7 Bijan ahead). Second-hardest remaining matchup is NE.": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0
+   },
+   "n_shows": 5,
+   "score": 1.0
+  },
+  {
+   "player": "Zay Flowers",
+   "pos": "WR",
+   "team": "BAL",
+   "voices": {
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 Without Tyler Huntley": 1.0,
+    "Beyond the Box Score \u00b7 Cooper Rush: 0.61 fantasy points per route run": 1.0,
+    "Beyond the Box Score \u00b7 3.3 yards per route run. Roughly 60 fantasy points in about 1.25 games with Lamar this year. WR11 YTD. \"150 yards in half of a game\" in Week 1. More red-zone targets than ever; credits OC Declan Doyle.": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 5,
+   "score": 1.0
+  },
+  {
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "team": "IND",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 a host": 1.0
+   },
+   "n_shows": 5,
+   "score": 1.0
+  },
+  {
+   "player": "Derrick Henry",
+   "pos": "RB",
+   "team": "BAL",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 1.0
+  },
+  {
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "team": "NO",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 1.0
+  },
+  {
+   "player": "Drake London",
+   "pos": "WR",
+   "team": "ATL",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Beyond the Box Score \u00b7 WR16 YTD. In games without the backup QBs (Cooper Rush": 1.0,
+    "Beyond the Box Score \u00b7 Kirk Cousins": 1.0,
+    "Beyond the Box Score \u00b7 a garbled third name": 1.0,
+    "Beyond the Box Score \u00b7 Tua Tagovailoa) over two seasons": 1.0,
+    "Beyond the Box Score \u00b7 3rd in fantasy points per route run behind Puka Nacua": 1.0,
+    "Beyond the Box Score \u00b7 JSN; 3.06 yards per route run (only he": 1.0,
+    "Beyond the Box Score \u00b7 Puka": 1.0,
+    "Beyond the Box Score \u00b7 JSN above 3.0). Bye Week 11": 1.0,
+    "Beyond the Box Score \u00b7 then @MIN": 1.0,
+    "Beyond the Box Score \u00b7 DET": 1.0,
+    "Beyond the Box Score \u00b7 CLE": 1.0,
+    "Beyond the Box Score \u00b7 WAS": 1.0,
+    "Beyond the Box Score \u00b7 TB": 1.0,
+    "Beyond the Box Score \u00b7 NO.": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "team": "NYJ",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Germie Bernard",
+   "pos": "WR",
+   "team": "PIT",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Fantasy Football Today \u00b7 both": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Kaelon Black \u2753",
+   "pos": "RB",
+   "team": "SF",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Christian McCaffrey",
+   "pos": "RB",
+   "team": "SF",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Tee Higgins",
+   "pos": "WR",
+   "team": "CIN",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Matthew Golden",
+   "pos": "WR",
+   "team": "GB",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "team": "TE LAR",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "team": "WAS",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Jared Goff",
+   "pos": "QB",
+   "team": "DET",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Javonte Williams",
+   "pos": "RB",
+   "team": "DAL",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Justin Jefferson",
+   "pos": "WR",
+   "team": "MIN",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Kenneth Walker",
+   "pos": "RB",
+   "team": "KC",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "team": "CHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Jordyn Tyson",
+   "pos": "WR",
+   "team": "NO",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Carnell Tate",
+   "pos": "WR",
+   "team": "TEN",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "C.J. Stroud",
+   "pos": "QB",
+   "team": "HOU",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 4,
+   "score": 1.0
+  },
+  {
+   "player": "Tucker Kraft",
+   "pos": "TE",
+   "team": "GB",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 TE15 YTD. Over the past 2 seasons including this year": 1.0,
+    "Beyond the Box Score \u00b7 only LaPorta": 1.0,
+    "Beyond the Box Score \u00b7 Kittle": 1.0,
+    "Beyond the Box Score \u00b7 Bowers": 1.0,
+    "Beyond the Box Score \u00b7 McBride have more TE fantasy points per game; only Dalton Kincaid": 1.0,
+    "Beyond the Box Score \u00b7 Kittle have a higher yards per route run": 1.0,
+    "Beyond the Box Score \u00b7 just ahead of Bowers. Bye Week 11; GB targets concentrated in 3 players.": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Hunter Henry",
+   "pos": "TE",
+   "team": "NE",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "team": "PHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Roschon Johnson",
+   "pos": "RB",
+   "team": "CHI",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Malik Willis",
+   "pos": "QB",
+   "team": "MIA",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 Both": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Mason Taylor",
+   "pos": "TE",
+   "team": "NYJ",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "J.J. McCarthy",
+   "pos": "QB",
+   "team": "QB NYG",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "team": "IND",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "CeeDee Lamb",
+   "pos": "WR",
+   "team": "WR DAL",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Ja'Marr Chase",
+   "pos": "WR",
+   "team": "WR CIN",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "team": "LAR",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Jakobi Meyers",
+   "pos": "WR",
+   "team": "JAX",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Tetairoa McMillan / Jalen Coker",
+   "pos": "WR",
+   "team": "CAR",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Brenton Strange",
+   "pos": "TE",
+   "team": "JAX",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "George Kittle",
+   "pos": "TE",
+   "team": "SF",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0
+   },
+   "n_shows": 3,
+   "score": 1.0
+  },
+  {
+   "player": "Michael Mayer",
+   "pos": "TE",
+   "team": "LV",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Quinshon Judkins",
+   "pos": "RB",
+   "team": "CLE",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Tetairoa McMillan",
+   "pos": "WR",
+   "team": "CAR",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Sam LaPorta",
+   "pos": "TE",
+   "team": "DET",
+   "voices": {
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Both": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Terrance Ferguson",
+   "pos": "TE",
+   "team": "LAR",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Jaxon Smith-Njigba",
+   "pos": "WR",
+   "team": "SEA",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Zonovan \"Bam\" Knight",
+   "pos": "",
+   "team": "RB ARI",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Jordan Love",
+   "pos": "QB",
+   "team": "GB",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "DJ Moore",
+   "pos": "WR",
+   "team": "BUF",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Kyler Murray",
+   "pos": "QB",
+   "team": "MIN",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Marvin Harrison Jr.",
+   "pos": "WR",
+   "team": "HOU",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "team": "CIN",
+   "voices": {
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Josh Allen",
+   "pos": "QB",
+   "team": "BUF",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "DeMario \"Pop\" Douglas",
+   "pos": "",
+   "team": "",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Drake Maye",
+   "pos": "QB",
+   "team": "NE",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "team": "NE",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "pos": "RB",
+   "team": "LV",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Khalil Shakir",
+   "pos": "WR",
+   "team": "BUF",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Trevor Lawrence",
+   "pos": "QB",
+   "team": "QB JAX",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Cade Otton",
+   "pos": "TE",
+   "team": "TE TB",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 1.0
+  },
+  {
+   "player": "Bhayshul Tuten",
+   "pos": "RB",
+   "team": "JAX",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 ROS RB11. 60+ rush yards in every game but Week 6; Week 6: 87 scrimmage yards": 1.0,
+    "Beyond the Box Score \u00b7 2 TDs on 16 touches; 16+ touches every game except Week 2. Top-12 share of inside-10 RB touches. RB14 YTD; highest single week RB11; season-high 16 pts. One of 4 RBs with 11+ expected": 1.0,
+    "Beyond the Box Score \u00b7 11+ actual FP in every game in the past month (with Jahmyr Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Kenneth Walker": 1.0,
+    "Beyond the Box Score \u00b7 Chuba Hubbard). Past month RB13 expected FP": 1.0,
+    "Beyond the Box Score \u00b7 g": 1.0,
+    "Beyond the Box Score \u00b7 RB10 actual; past couple of games RB10 FP": 1.0,
+    "Beyond the Box Score \u00b7 RB7 expected. Near the top in yards after contact. Week 6 route rate 56% (his season high": 1.0,
+    "Beyond the Box Score \u00b7 the highest by any JAX back); 40%+ in each of the past 3 games.": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Jacksonville offense",
+   "pos": "",
+   "team": "",
+   "voices": {
+    "Beyond the Box Score \u00b7 23rd in plays": 1.0,
+    "Beyond the Box Score \u00b7 game; 9th in points": 1.0,
+    "Beyond the Box Score \u00b7 game; 3rd explosive play rate; 7th pass success rate; 6th rush success rate. RB rush success rate 37% last year vs 45% this year. Remaining schedule IND": 1.0,
+    "Beyond the Box Score \u00b7 BAL": 1.0,
+    "Beyond the Box Score \u00b7 TEN": 1.0,
+    "Beyond the Box Score \u00b7 NYG": 1.0,
+    "Beyond the Box Score \u00b7 CHI; DAL": 1.0,
+    "Beyond the Box Score \u00b7 WAS in Weeks 16-17.": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Parker Washington",
+   "pos": "WR",
+   "team": "JAX",
+   "voices": {
+    "Beyond the Box Score \u00b7 WR13 in fantasy YTD; 8 pts last week": 1.0,
+    "Beyond the Box Score \u00b7 2 pts in Week 4; averaging 15.3 PPR this year. Last year after JAX's Week 8 bye: 17.2 PPR": 1.0,
+    "Beyond the Box Score \u00b7 g over 9 healthy games": 1.0,
+    "Beyond the Box Score \u00b7 22.3 across his final 4. Route win rate": 1.0,
+    "Beyond the Box Score \u00b7 targets per route run": 1.0,
+    "Beyond the Box Score \u00b7 YPRR all higher than last year.": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "team": "DET",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "DeMario Douglas",
+   "pos": "WR",
+   "team": "NE",
+   "voices": {
+    "Fantasy Football Today \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 WR3; start over Waddle; start if Barkley out": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Caleb Williams",
+   "pos": "QB",
+   "team": "CHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "JJ McCarthy",
+   "pos": "",
+   "team": "QB NYG",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Rachaad White",
+   "pos": "RB",
+   "team": "WAS",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Ladd McConkey",
+   "pos": "WR",
+   "team": "LAC",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal (citing Dr. Deepak Chona": 1.0,
+    "Sal Vetri \u00b7 \"Elite Draft Dispoints\")": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Ryan Flournoy",
+   "pos": "WR",
+   "team": "DAL",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Matthew Golden vs Christian Watson",
+   "pos": "",
+   "team": "WR GB",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Geno Smith",
+   "pos": "QB",
+   "team": "NYJ",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Chris Rodriguez Jr.",
+   "pos": "RB",
+   "team": "JAX",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 Steals some red-zone touches": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Dak Prescott",
+   "pos": "QB",
+   "team": "DAL",
+   "voices": {
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Elijah Mitchell",
+   "pos": "RB",
+   "team": "PHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Pierre Strong",
+   "pos": "RB",
+   "team": "GB",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Sam Darnold",
+   "pos": "QB",
+   "team": "SEA",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Deebo Samuel",
+   "pos": "WR",
+   "team": "SF",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Jaylen Warren, Rico Dowdle",
+   "pos": "RB",
+   "team": "PIT",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Brock Bowers / Trey McBride",
+   "pos": "",
+   "team": "LV / ARI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "D'Andre Swift / Roschon Johnson",
+   "pos": "",
+   "team": "RB CHI",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "JJ McCarthy / Jameis Winston",
+   "pos": "",
+   "team": "NYG",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Jeremy [Germie] Bernard",
+   "pos": "",
+   "team": "?",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Kyren Williams / Puka Nacua",
+   "pos": "LAR",
+   "team": "",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Tee Higgins / DeVonta Smith",
+   "pos": "WR",
+   "team": "CIN",
+   "voices": {
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  },
+  {
+   "player": "Travis Kelce / Dallas Goedert",
+   "pos": "",
+   "team": "KC / PHI",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0
+   },
+   "n_shows": 1,
+   "score": 1.0
+  }
+ ],
+ "consensus_fade": [
+  {
+   "player": "MarShawn Lloyd",
+   "pos": "RB",
+   "team": "GB",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 4,
+   "score": -1.0
+  },
+  {
+   "player": "J.K. Dobbins",
+   "pos": "RB",
+   "team": "DEN",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "team": "LAC",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "BDGE \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Brian Thomas Jr.",
+   "pos": "WR",
+   "team": "WR JAX",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": -1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Mark Andrews",
+   "pos": "TE",
+   "team": "BAL",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Daniel Jones",
+   "pos": "QB",
+   "team": "IND",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Courtland Sutton",
+   "pos": "WR",
+   "team": "DEN",
+   "voices": {
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 2,
+   "score": -1.0
+  },
+  {
+   "player": "Cam Skattebo / Tyrone Tracy",
+   "pos": "",
+   "team": "RB NYG",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Boone": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Juwan Johnson",
+   "pos": "TE",
+   "team": "NO",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Tyreek Hill",
+   "pos": "WR",
+   "team": "WR",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Hayden": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Aaron Jones / Jordan Mason",
+   "pos": "RB",
+   "team": "MIN",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Stefon Diggs",
+   "pos": "WR",
+   "team": "WAS",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Keon Coleman",
+   "pos": "WR",
+   "team": "BUF",
+   "voices": {
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Terry McLaurin",
+   "pos": "WR",
+   "team": "WR WAS",
+   "voices": {
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Deshaun Watson",
+   "pos": "QB",
+   "team": "CLE",
+   "voices": {
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "team": "TB",
+   "voices": {
+    "Beyond the Box Score \u00b7 Jacob Gibbs": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Dalton Schultz",
+   "pos": "TE",
+   "team": "HOU",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Bernard / DeVonta Smith / Burden",
+   "pos": "",
+   "team": "",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Jonathan Brooks",
+   "pos": "",
+   "team": "RB CAR",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Kayshon Boutte / Xavier Hutchinson",
+   "pos": "WR",
+   "team": "HOU",
+   "voices": {
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Kendre Miller / Alvin Kamara",
+   "pos": "",
+   "team": "RB NO",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "TreVeyon Henderson / Corey Kiner",
+   "pos": "RB",
+   "team": "NE",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  },
+  {
+   "player": "Zach Charbonnet / Emanuel Wilson",
+   "pos": "",
+   "team": "RB SEA",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 1,
+   "score": -1.0
+  }
+ ],
+ "contrarian": [
+  {
+   "player": "A.J. Brown",
+   "pos": "WR",
+   "team": "NE",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": -1.0,
+    "Fantasy Football Today \u00b7 Start": 1.0,
+    "Fantasy Football Today \u00b7 \"at worst\u2026 WR2\"; top 15": 1.0,
+    "Fantasy Football Today \u00b7 20": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 6,
+   "score": 0.38
+  },
+  {
+   "player": "Christian Kirk",
+   "pos": "WR",
+   "team": "WR SF",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "FFT Dynasty \u00b7 Both": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0
+   },
+   "n_shows": 6,
+   "score": 0.5
+  },
+  {
+   "player": "Ashton Jeanty",
+   "pos": "RB",
+   "team": "LV",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -0.5,
+    "Beyond the Box Score \u00b7 Around 2 yards per carry lately; Jacob ranks him RB19 for Week 7": 1.0,
+    "Beyond the Box Score \u00b7 his lowest all year. Raiders": 1.0,
+    "Beyond the Box Score \u00b7 49ers are the only teams with 80+ PPR points in all 6 games. Only DET": 1.0,
+    "Beyond the Box Score \u00b7 CAR": 1.0,
+    "Beyond the Box Score \u00b7 CIN": 1.0,
+    "Beyond the Box Score \u00b7 LAR": 1.0,
+    "Beyond the Box Score \u00b7 KC produce more non-QB FP": 1.0,
+    "Beyond the Box Score \u00b7 g than LV. Only 27.4% of LV points go to RBs. Bye Week 13": 1.0,
+    "Beyond the Box Score \u00b7 then LAC": 1.0,
+    "Beyond the Box Score \u00b7 DEN": 1.0,
+    "Beyond the Box Score \u00b7 TEN": 1.0,
+    "Beyond the Box Score \u00b7 ARI; NYJ in Week 8 but a tough month otherwise.": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.83
+  },
+  {
+   "player": "Omar Cooper Jr.",
+   "pos": "WR",
+   "team": "NYJ",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -0.33,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.78
+  },
+  {
+   "player": "Tre Tucker",
+   "pos": "WR",
+   "team": "LV",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -0.33,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0
+   },
+   "n_shows": 5,
+   "score": 0.4
+  },
+  {
+   "player": "Caleb Douglas",
+   "pos": "WR",
+   "team": "MIA",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": 1.0,
+    "Beyond the Box Score \u00b7 15th of 75 qualified WRs in separation": 1.0,
+    "Beyond the Box Score \u00b7 Weeks 1-2; 2.05 yards per route run before his injury; 25% slot rate in Week 2.": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.85
+  },
+  {
+   "player": "Malik Nabers",
+   "pos": "WR",
+   "team": "NYG",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 panel": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 Almost twice London's points over the past two games": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.85
+  },
+  {
+   "player": "Jonah Coleman",
+   "pos": "RB",
+   "team": "DEN",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.83
+  },
+  {
+   "player": "Jaylin Noel",
+   "pos": "WR",
+   "team": "HOU",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 0.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.25
+  },
+  {
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "team": "PHI",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.83
+  },
+  {
+   "player": "Bucky Irving",
+   "pos": "RB",
+   "team": "TB",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.8
+  },
+  {
+   "player": "Tyrone Tracy Jr.",
+   "pos": "RB",
+   "team": "NYG",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 5,
+   "score": 0.2
+  },
+  {
+   "player": "Chuba Hubbard",
+   "pos": "RB",
+   "team": "CAR",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.8
+  },
+  {
+   "player": "Travis Hunter",
+   "pos": "CB/WR JAX",
+   "team": "",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.8
+  },
+  {
+   "player": "Jameson Williams",
+   "pos": "WR",
+   "team": "DET",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.2
+  },
+  {
+   "player": "Ja'Kobi Lane",
+   "pos": "WR",
+   "team": "BAL",
+   "voices": {
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.78
+  },
+  {
+   "player": "Jaylen Waddle",
+   "pos": "WR",
+   "team": "DEN",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Fantasy Football Today \u00b7 a host": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 5,
+   "score": -0.5
+  },
+  {
+   "player": "Jaylen Warren",
+   "pos": "RB",
+   "team": "PIT",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 0.33,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 panel": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.62
+  },
+  {
+   "player": "Jonathan Taylor",
+   "pos": "RB",
+   "team": "IND",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 5,
+   "score": 0.33
+  },
+  {
+   "player": "Jordan Mason",
+   "pos": "RB",
+   "team": "MIN",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -0.5,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Beyond the Box Score \u00b7 One of just 7 qualified backs (100+ runs": 1.0,
+    "Beyond the Box Score \u00b7 last 2 seasons) with a higher rush success rate than Tuten; 3.44 yards after contact per rush since start of last year": 1.0,
+    "Beyond the Box Score \u00b7 more than Tuten": 1.0,
+    "Beyond the Box Score \u00b7 Chris Rodriguez; had to go on IR with a thumb injury. Next month IND": 1.0,
+    "Beyond the Box Score \u00b7 DET": 1.0,
+    "Beyond the Box Score \u00b7 BUF": 1.0,
+    "Beyond the Box Score \u00b7 GB; DET opens fantasy playoffs": 1.0,
+    "Beyond the Box Score \u00b7 WAS Week 16": 1.0,
+    "Beyond the Box Score \u00b7 NYJ in the title week.": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.91
+  },
+  {
+   "player": "Woody Marks",
+   "pos": "RB",
+   "team": "HOU",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Boone": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.8
+  },
+  {
+   "player": "Josh Downs",
+   "pos": "WR",
+   "team": "IND",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Boone": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "Fantasy Football Today \u00b7 Hosts": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 4,
+   "score": -0.8
+  },
+  {
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "team": "PHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 0.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0
+   },
+   "n_shows": 4,
+   "score": 0.0
+  },
+  {
+   "player": "Colston Loveland",
+   "pos": "TE",
+   "team": "CHI",
+   "voices": {
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 \"Should be at like 16\"": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.78
+  },
+  {
+   "player": "Devaughn Vele",
+   "pos": "WR",
+   "team": "NO",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 panel": -1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 0.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.0
+  },
+  {
+   "player": "Bijan Robinson",
+   "pos": "RB",
+   "team": "ATL",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Fantasy Football Today \u00b7 Adam vs Jamey": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.78
+  },
+  {
+   "player": "Jahmyr Gibbs",
+   "pos": "RB",
+   "team": "DET",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 panel": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0
+   },
+   "n_shows": 4,
+   "score": 0.78
+  },
+  {
+   "player": "Tony Pollard",
+   "pos": "RB",
+   "team": "TEN",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 4,
+   "score": -0.12
+  },
+  {
+   "player": "KC Concepcion",
+   "pos": "WR",
+   "team": "CLE",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 0.33,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 4,
+   "score": 0.42
+  },
+  {
+   "player": "Xavier Worthy",
+   "pos": "WR",
+   "team": "KC",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": -0.33,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.52
+  },
+  {
+   "player": "Garrett Wilson",
+   "pos": "WR",
+   "team": "NYJ",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 0.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 0.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.0
+  },
+  {
+   "player": "Michael Wilson",
+   "pos": "WR",
+   "team": "ARI",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0
+   },
+   "n_shows": 4,
+   "score": 0.71
+  },
+  {
+   "player": "Denzel Boston",
+   "pos": "WR",
+   "team": "CLE",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 4,
+   "score": 0.14
+  },
+  {
+   "player": "Zach Charbonnet",
+   "pos": "RB",
+   "team": "SEA",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.43
+  },
+  {
+   "player": "Dylan Sampson",
+   "pos": "RB",
+   "team": "CLE",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": -1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.71
+  },
+  {
+   "player": "Jalen Coker",
+   "pos": "WR",
+   "team": "CAR",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 both": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 a host": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.67
+  },
+  {
+   "player": "Tyler Allgeier",
+   "pos": "RB",
+   "team": "ARI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Hosts": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0
+   },
+   "n_shows": 4,
+   "score": -0.67
+  },
+  {
+   "player": "TreVeyon Henderson",
+   "pos": "RB",
+   "team": "NE",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 4,
+   "score": -0.67
+  },
+  {
+   "player": "Bo Nix",
+   "pos": "QB",
+   "team": "DEN",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": -1.0
+   },
+   "n_shows": 4,
+   "score": -0.33
+  },
+  {
+   "player": "Nico Collins",
+   "pos": "WR",
+   "team": "HOU",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.6
+  },
+  {
+   "player": "Chris Olave",
+   "pos": "WR",
+   "team": "NO",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.6
+  },
+  {
+   "player": "Luther Burden III",
+   "pos": "WR",
+   "team": "CHI",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0
+   },
+   "n_shows": 4,
+   "score": 0.5
+  },
+  {
+   "player": "Isaiah Likely",
+   "pos": "TE",
+   "team": "NYG",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Beyond the Box Score \u00b7 TE1 in fantasy YTD": -1.0,
+    "Fantasy Football Today \u00b7 banter": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": 1.0
+   },
+   "n_shows": 3,
+   "score": -0.11
+  },
+  {
+   "player": "George Pickens",
+   "pos": "WR",
+   "team": "DAL",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "FFT Dynasty \u00b7 Both": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.71
+  },
+  {
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "team": "SEA",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam Aizer": 0.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 0.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 0.33,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 3,
+   "score": -0.24
+  },
+  {
+   "player": "Malik Washington",
+   "pos": "WR",
+   "team": "MIA",
+   "voices": {
+    "Fantasy Football Today \u00b7 Hosts": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0
+   },
+   "n_shows": 3,
+   "score": -0.14
+  },
+  {
+   "player": "Mike Evans",
+   "pos": "WR",
+   "team": "SF",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.0
+  },
+  {
+   "player": "Michael Penix Jr.",
+   "pos": "QB",
+   "team": "ATL",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 3,
+   "score": 0.33
+  },
+  {
+   "player": "Kyle Pitts",
+   "pos": "TE",
+   "team": "ATL",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.67
+  },
+  {
+   "player": "Bryce Young",
+   "pos": "QB",
+   "team": "CAR",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 0.0,
+    "Fantasy Football Today \u00b7 Heath Cummings. No guests.": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.4
+  },
+  {
+   "player": "Rico Dowdle",
+   "pos": "RB",
+   "team": "PIT",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 0.33,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.47
+  },
+  {
+   "player": "Christian Watson",
+   "pos": "WR",
+   "team": "GB",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Beyond the Box Score \u00b7 \"Scored way more points\" than Washington": -1.0
+   },
+   "n_shows": 3,
+   "score": 0.6
+  },
+  {
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "team": "LAR",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "BDGE \u00b7 Michael O'Hara": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.0
+  },
+  {
+   "player": "Tank Dell",
+   "pos": "WR",
+   "team": "HOU",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Hosts": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 3,
+   "score": -0.2
+  },
+  {
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "team": "PIT",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.5
+  },
+  {
+   "player": "Emeka Egbuka",
+   "pos": "WR",
+   "team": "TB",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": 1.0,
+    "BDGE \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 3,
+   "score": 0.5
+  },
+  {
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "team": "PHI",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Joel Smyth": -1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 3,
+   "score": -0.5
+  },
+  {
+   "player": "Aaron Jones Sr.",
+   "pos": "RB",
+   "team": "MIN",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 0.0
+   },
+   "n_shows": 3,
+   "score": 0.0
+  },
+  {
+   "player": "Adonai Mitchell",
+   "pos": "WR",
+   "team": "NYJ",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 3,
+   "score": -0.33
+  },
+  {
+   "player": "Patrick Mahomes",
+   "pos": "QB",
+   "team": "KC",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0
+   },
+   "n_shows": 3,
+   "score": 0.33
+  },
+  {
+   "player": "Jeremiyah Love",
+   "pos": "RB",
+   "team": "ARI",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "Beyond the Box Score \u00b7 8 points across his past two games; set to miss a second straight game. FantasyPros expert consensus ROS down to ~RB20 (around Rhamondre": 1.0,
+    "Beyond the Box Score \u00b7 behind Jaylen Warren": 1.0,
+    "Beyond the Box Score \u00b7 Bucky Irving": 1.0,
+    "Beyond the Box Score \u00b7 Josh Jacobs). Week 3: 70%+ snaps": 1.0,
+    "Beyond the Box Score \u00b7 21 rushes": 1.0,
+    "Beyond the Box Score \u00b7 5 targets": 1.0,
+    "Beyond the Box Score \u00b7 red-zone work. ARI: only KC": 1.0,
+    "Beyond the Box Score \u00b7 BAL": 1.0,
+    "Beyond the Box Score \u00b7 SF have a higher 1st-down success rate; 3rd in pace; 4th in plays": 1.0,
+    "Beyond the Box Score \u00b7 game (behind CHI": 1.0,
+    "Beyond the Box Score \u00b7 CAR": 1.0,
+    "Beyond the Box Score \u00b7 LAR); 20th in team FP": 1.0,
+    "Beyond the Box Score \u00b7 g": 1.0,
+    "Beyond the Box Score \u00b7 but 104 FP": 1.0,
+    "Beyond the Box Score \u00b7 g in the 5 non-SEA games (would rank between JAX": 1.0,
+    "Beyond the Box Score \u00b7 NO": 1.0,
+    "Beyond the Box Score \u00b7 top-12); only 22.8% of team fantasy points to RBs. Schedule: SEA Wk9": 1.0,
+    "Beyond the Box Score \u00b7 LAR Wk10": 1.0,
+    "Beyond the Box Score \u00b7 KC Wk11": 1.0,
+    "Beyond the Box Score \u00b7 bye Wk14": 1.0,
+    "Beyond the Box Score \u00b7 then NYJ": 1.0,
+    "Beyond the Box Score \u00b7 LV to close.": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.92
+  },
+  {
+   "player": "Chris Godwin",
+   "pos": "WR",
+   "team": "TB",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Fantasy Football Today \u00b7 Adam vs Dave": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "team": "NYG",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": -1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.2
+  },
+  {
+   "player": "Kendrick Bourne",
+   "pos": "WR",
+   "team": "ARI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 0.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 0.0,
+    "Fantasy Football Today \u00b7 Adam Aizer (asks the questions": -1.0,
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.2
+  },
+  {
+   "player": "Rhamondre Stevenson",
+   "pos": "RB",
+   "team": "NE",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg (host)": -1.0,
+    "Fantasy Football Today \u00b7 Heath fade vs Jamey lead back": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.2
+  },
+  {
+   "player": "Harold Fannin Jr.",
+   "pos": "TE",
+   "team": "CLE",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.6
+  },
+  {
+   "player": "Tyrone Tracy / Cam Skattebo",
+   "pos": "",
+   "team": "NYG",
+   "voices": {
+    "Fantasy Football Today \u00b7 Heath Cummings": -1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0,
+    "FFT Dynasty \u00b7 Heath Cummings": 1.0
+   },
+   "n_shows": 2,
+   "score": -0.2
+  },
+  {
+   "player": "Baker Mayfield",
+   "pos": "QB",
+   "team": "TB",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 0.33,
+    "Fantasy Football Today \u00b7 Adam Aizer": 0.33,
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 0.0
+   },
+   "n_shows": 2,
+   "score": -0.08
+  },
+  {
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "team": "PHI",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Fantasy Football Today \u00b7 both": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.5
+  },
+  {
+   "player": "Jordan Addison",
+   "pos": "WR",
+   "team": "MIN",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Hayden": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh": 1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Fantasy Football Today \u00b7 panel": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Wan'Dale Robinson",
+   "pos": "WR",
+   "team": "TEN",
+   "voices": {
+    "Fantasy Football Today \u00b7 Hosts": -1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.5
+  },
+  {
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "team": "MIN",
+   "voices": {
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": 1.0,
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Matthew Stafford",
+   "pos": "QB",
+   "team": "LAR",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Matt Harmon": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "DK Metcalf",
+   "pos": "WR",
+   "team": "PIT",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "Blake Corum",
+   "pos": "RB",
+   "team": "LAR",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": -0.5,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": -0.17
+  },
+  {
+   "player": "Rome Odunze",
+   "pos": "WR",
+   "team": "CHI",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": 0.0,
+    "Fantasy Football Today \u00b7 Hosts": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "team": "WR TB",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "Fantasy Football Today \u00b7 Heath Cummings (rankings": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "team": "WR PHI",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "Malachi Fields",
+   "pos": "WR",
+   "team": "WR NYG",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 Adam Aizer": 1.0,
+    "Beyond the Box Score \u00b7 Theo Gremminger": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Jake Ferguson",
+   "pos": "TE",
+   "team": "DAL",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam": -1.0,
+    "Fantasy Football Today \u00b7 Jamey Eisenberg": -1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "Emmett Johnson \u2753",
+   "pos": "RB",
+   "team": "KC",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Fantasy Football Today \u00b7 a host; Jamey": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Dalton Kincaid",
+   "pos": "TE",
+   "team": "BUF",
+   "voices": {
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0,
+    "Fantasy Football Today \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Ashton Jeanty / Mike Washington",
+   "pos": "",
+   "team": "",
+   "voices": {
+    "Fantasy Football Today \u00b7 Adam": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": -1.0
+   },
+   "n_shows": 2,
+   "score": -0.33
+  },
+  {
+   "player": "Jordan Mason / Aaron Jones",
+   "pos": "RB",
+   "team": "MIN",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Yahoo: Josh & Hayden \u00b7 Josh Norris": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.33
+  },
+  {
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "team": "NO",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "FFT Dynasty \u00b7 Alfredo Brown": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Lamar Jackson",
+   "pos": "QB",
+   "team": "BAL",
+   "voices": {
+    "Sal Vetri \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Bam Knight",
+   "pos": "",
+   "team": "ARI",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Sal Vetri \u00b7 (unattributed)": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Chris Bell",
+   "pos": "WR",
+   "team": "MIA",
+   "voices": {
+    "Sal Vetri \u00b7 Sal Vetri": -1.0,
+    "Beyond the Box Score \u00b7 Coming back from ACL surgery; had a ~70-yard TD called back": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "team": "LAC",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": 1.0,
+    "BDGE \u00b7 Michael O'Hara": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Kalif Raymond",
+   "pos": "WR",
+   "team": "WR CHI",
+   "voices": {
+    "Fantasy Football Today \u00b7 Dave Richard": -1.0,
+    "BDGE \u00b7 BDGE Rankings Host": 1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "team": "SF",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Yahoo: Josh & Hayden \u00b7 Hayden Winks": -1.0
+   },
+   "n_shows": 2,
+   "score": 0.0
+  },
+  {
+   "player": "Cyrus Allen",
+   "pos": "WR",
+   "team": "KC",
+   "voices": {
+    "Beyond the Box Score \u00b7 (unattributed)": 1.0,
+    "Beyond the Box Score \u00b7 Jacob Gibbs": -1.0
+   },
+   "n_shows": 1,
+   "score": 0.0
+  }
+ ]
+}

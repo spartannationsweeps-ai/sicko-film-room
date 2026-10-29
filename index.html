@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0b0f"><title>Sicko Film Room · Fantasy Football Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=20261028212118">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏈</text></svg>">
+</head><body>
+<a class="skip" href="#app">Skip to content</a>
+
+<div class="shell">
+  <aside class="sidebar" id="sidebar" aria-label="Primary navigation">
+    <div class="sb-brand">
+      <span class="sb-mark" aria-hidden="true">🏈</span>
+      <div class="sb-brand-text">
+        <div class="sb-word">SICKO</div>
+        <div class="sb-sub">Film Room</div>
+      </div>
+      <button type="button" class="sb-close" id="sidebarClose" aria-label="Close menu">✕</button>
+    </div>
+    <nav class="side-nav" id="groups" role="tablist" aria-label="Areas">
+      <button type="button" data-group="home" class="on" title="Dashboard overview">
+        <span class="sn-ico" aria-hidden="true">🏠</span><span class="sn-lab">Home</span>
+      </button>
+      <button type="button" data-group="leagues" title="Your four leagues">
+        <span class="sn-ico" aria-hidden="true">🛡️</span><span class="sn-lab">My Leagues</span>
+      </button>
+      <button type="button" data-group="film" title="Show breakdowns &amp; archives">
+        <span class="sn-ico" aria-hidden="true">🎬</span><span class="sn-lab">Shows</span>
+      </button>
+      <button type="button" data-group="accuracy" title="Host hit rates &amp; prediction log">
+        <span class="sn-ico" aria-hidden="true">🏹</span><span class="sn-lab">Host Accuracy</span>
+      </button>
+    </nav>
+    <div class="sb-meta">
+      <div class="counts" id="counts"></div>
+      <div class="sb-built" id="builtAt"></div>
+    </div>
+  </aside>
+
+  <div class="shell-main">
+    <header class="topbar">
+      <button type="button" class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+      <div class="top-brand">
+        <span class="ball">🏈</span>
+        <div>
+          <h1>SICKO FILM ROOM</h1>
+          <div class="tagline">Fantasy football film room · your leagues, shows &amp; host grades</div>
+        </div>
+      </div>
+      <div class="top-tools">
+        <div class="jumpwrap" id="jumpwrap">
+          <input type="search" id="jump" placeholder="Search players, hosts, Mag, My Teams…" autocomplete="off" aria-label="Search Sicko Film Room">
+          <div class="jumpmenu" id="jumpmenu" hidden></div>
+        </div>
+      </div>
+    </header>
+
+    <div id="scoreBug" class="scorebug" hidden></div>
+
+    <div class="pane-head">
+      <div class="area-label" id="areaLabel">Home</div>
+      <div class="tabs" id="tabs" role="tablist" aria-label="Section tabs">
+        <button data-tab="home" data-group="home" class="on" title="Graphs and at-a-glance">📊<span>Overview</span></button>
+        <button data-tab="teams" data-group="leagues" title="Rosters + show takes for each of your teams">🛡️<span>My Teams</span></button>
+        <button data-tab="matchup" data-group="leagues" title="This week’s matchup preview">🆚<span>This Week</span></button>
+        <button data-tab="league" data-group="leagues" title="Standings, power ranks, heatmap">🏟️<span>League Hub</span></button>
+        <button data-tab="trends" data-group="leagues" title="Scoring trends over the season">📈<span>Scoring Trends</span></button>
+        <button data-tab="value" data-group="leagues" title="FantasyCalc dynasty trade values">💎<span>Dynasty Value</span></button>
+        <button data-tab="bench" data-group="leagues" title="Points left on the bench">🪑<span>Bench Left</span></button>
+        <button data-tab="shame" data-group="leagues" title="Worst starts and biggest benches">🤡<span>Hall of Shame</span></button>
+        <button data-tab="grades" data-group="leagues" title="Midseason draft grades">🎓<span>Draft Grades</span></button>
+        <button data-tab="feed" data-group="film" title="Every show episode breakdown">📺<span>Episode Feed</span></button>
+        <button data-tab="wraps" data-group="film" title="Sicko Mag, host wraps, Freddy, waivers, Sunday">🗞️<span>Mag &amp; Archives</span></button>
+        <button data-tab="players" data-group="film" title="Most-discussed players across shows">📊<span>Players</span></button>
+        <button data-tab="hosts" data-group="film" title="Host profiles and takes">🎙️<span>Hosts</span></button>
+        <button data-tab="debates" data-group="film" title="Where hosts disagree">⚔️<span>Host Debates</span></button>
+        <button data-tab="board" data-group="film" title="Consensus vs contrarian Sunday board">🧭<span>Consensus Board</span></button>
+        <button data-tab="accuracy" data-group="accuracy" title="Season host accuracy leaderboard">🏹<span>Leaderboard</span></button>
+        <button data-tab="preds" data-group="accuracy" title="Logged predictions graded vs results">🎯<span>Predictions</span></button>
+      </div>
+    </div>
+
+    <main id="app" tabindex="-1"></main>
+    <footer class="foot">Data only from the shows' own breakdowns, Sleeper's free API and FantasyCalc's free dynasty values. Nothing is invented — blanks mean no data yet.</footer>
+  </div>
+</div>
+
+<nav class="bottom-nav" id="bottomNav" aria-label="Mobile areas">
+  <button type="button" data-group="home" class="on"><span aria-hidden="true">🏠</span><span>Home</span></button>
+  <button type="button" data-group="leagues"><span aria-hidden="true">🛡️</span><span>Leagues</span></button>
+  <button type="button" data-group="film"><span aria-hidden="true">🎬</span><span>Shows</span></button>
+  <button type="button" data-group="accuracy"><span aria-hidden="true">🏹</span><span>Accuracy</span></button>
+</nav>
+<div class="scrim" id="scrim" hidden></div>
+
+<script src="assets/chart.umd.min.js?v=20261028212118"></script>
+<script src="assets/data.js?v=20261028212118"></script>
+<script src="assets/app.js?v=20261028212118"></script>
+</body></html>
